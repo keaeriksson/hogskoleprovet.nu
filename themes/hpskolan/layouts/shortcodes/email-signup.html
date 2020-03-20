@@ -1,0 +1,47 @@
+<!-- Newsletter -->
+<!-- Newsletter Form -->
+
+<div class="email-signup-wrapper">
+  <h4 class="m-0">10 unika tips för att bli bättre på Högskoleprovet</h4>
+  <p>
+    Vi har sammanställt våra bästa strategier för att lyckas på Högskoleprovet.
+    Ange din email så skickar vi dem till dig. Vi bifogar också 50 svåra svenska
+    texter och en rabattkod på vår övningsportal HPSkolan!
+  </p>
+  <form id="newsletterForm" data-toggle="validator" data-focus="false">
+    <div class="form-group">
+      <input
+        type="email"
+        id="email_address"
+        name="email_address"
+        class="form-control-input"
+        id="nemail"
+        placeholder="karl@exempel.com"
+        required
+      />
+    </div>
+    <div class="email-signup-checkbox">
+      <input type="checkbox" id="toc-big" value="Agreed-to-Terms" required />
+      <label for="toc-big">
+        <small
+          >Jag godkänner att ni skickar tips och information om
+          Högskoleprovet.</small
+        >
+      </label>
+    </div>
+  </form>
+
+  <p id="email-message-success" class="hide">
+    Vi skickar informationen via email inom kort!
+  </p>
+  <p id="email-message-error" class="hide">
+    Något gick fel. Kontrollera att du skrivit rätt adress.
+  </p>
+  <button id="emailSubmit" class="btn-solid-lg">
+    <span id="email-spinner-wrapper" class="spinner-icon hide">
+      <i class="fas fa-spinner fa-spin email-spinner"></i>
+    </span>
+    SKICKA
+  </button>
+</div>
+<!-- end of newsletter -->
