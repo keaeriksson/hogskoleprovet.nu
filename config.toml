@@ -1,8 +1,38 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "se-SE"
+title = "Tränga på Högskoleprovet - Såhär blir du expert - Högskoleprovet.nu"
 theme = "hpskolan"
+
+baseURL = "http://hpskolan-public.s3-website-eu-west-1.amazonaws.com/"
+
+[params]
+author = "HPSkolan"
+logo = "images/featured_default.png"
+header = "HPSkolan - Högskoleprovet.nu"
+featuredImage = "images/featured_default.png"
+
+facebook = "hogskoleprovet.nu"
 
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[deployment]
+
+[[deployment.targets]]
+name = "prod"
+URL = "s3://hpskolan-public?region=eu-west-1"
+
+[[deployment.matchers]]
+#  Cache static assets for 1 year.
+pattern = "^.+\\.(js|css|svg|ttf)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true

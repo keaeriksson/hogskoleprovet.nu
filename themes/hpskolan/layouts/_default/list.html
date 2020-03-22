@@ -1,0 +1,11 @@
+{{ partial "head.html" . }}
+<h1 class="text-center">{{ .Title }}</h1>
+<p class="lead text-center">{{ .Description }}</p>
+
+<ol class="post-list">
+    {{ $pag := .Paginate .Pages }}
+    {{ range $pag.Pages }}
+        {{ partial "page-stub.html" . }}
+    {{ end }}
+</ol>
+{{ partial "footer.html" . }}
