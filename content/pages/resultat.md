@@ -1,5 +1,5 @@
 ---
-title: Högskoleprovet Resultat
+title: Högskoleprovet resultat
 date: "2012-04-06"
 description: Undrar du hur du räknar ut din poäng på Höskoleprovet? I den här artikeln går vi igenom var du kan hitta ditt resultat samt hur du kan räkna fram ditt resultat om du vet din poäng.
 url: "/resultat/"
@@ -9,7 +9,8 @@ url: "/resultat/"
 
 Resultatet på högskoleprovet får man ut genom att logga in på den officiella sidan för högskoleprovet. Där kommer ditt resultat att laddas upp när alla prov har rättats och normeringen har bestämts. Är du inte nöjd med ditt resultat rekommenderar vi dig att öva mer inför nästa prov. I vår övningsportal HPSkolan har vi hjälpt hundratals personer höja sitt resultat och nå sin drömutbildning. Där finns tusentals övningsuppgifter med förklaringar och tidtagning. Det bästa sättet att träna helt enkel
 
-[Läs mer om HPSkolan](https://www.högskoleprovet.nu)\
+{{%read-more%}}
+
 [Till officiella resultat](http://www.hogskoleprov.nu/)
 
 ### Räkna ut resultat själv

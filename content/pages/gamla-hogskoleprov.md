@@ -161,7 +161,7 @@ Nu när du vet hur du ska gå tillväga för att träna på gamla högskoleprov 
 
 I HPSkolan ingår bland annat ett provläge där du kan göra de 10 senaste högskoleprovet med rättning, normering, tidtagning, facit och steg för steg förklaringar på matteuppgifterna. Du kan också få hjälp av en personlig coach.
 
-[Läs mer om HPSkolan](https://www.högskoleprovet.nu)
+{{%read-more%}}
 
 
 {{% email-signup%}}

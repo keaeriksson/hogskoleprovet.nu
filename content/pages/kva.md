@@ -1,7 +1,7 @@
 ---
 title: Högskoleprovet KVA
 date: "2012-04-06"
-description: Högskoleprovets KVA-del brukar ses som en av de klurigaste delarna på Högskoleprovet. Därför har vi ägnat det har artikeln åt att introducera dig i KVA delen och hur man tacklar sånna uppgifter.
+description: Högskoleprovets KVA-del brukar ses som en av de klurigaste delarna på Högskoleprovet. Därför har vi ägnat denna sida åt att introducera dig i KVA delen och hur man tacklar sådana uppgifter.
 url: "/kva/"
 ---
 
@@ -31,7 +31,7 @@ I vår övningsportal HPSkolan har vi samlat hundratals gamla KVA-uppgifter frå
 
 Utöver KVA-uppgifterna finns det även tusentals andra uppgifter där alla kvantitativa uppgifter har utförliga förklaringar och uträkningar. Övningsportalen har hjälp tusentals provskrivare nå ett högre resultat.
 
-[Läs mer om HPSkolan](https://www.högskoleprovet.nu)
+{{%read-more%}}
 
 #### Repetera grunderna i matematik
 

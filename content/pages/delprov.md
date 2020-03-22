@@ -1,5 +1,5 @@
 ---
-title: Högskoleprovets Delprov
+title: Högskoleprovets delprov
 date: "2012-04-06"
 description: Det kan vara svårt att hålla koll på alla högskoleprovets olika delprov. Därför har vi på den här sidan beskrivit varje delprov.
 url: "/delprov/"

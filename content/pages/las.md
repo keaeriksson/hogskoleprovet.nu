@@ -21,7 +21,7 @@ I vår övningsportal HPSkolan har vi samlat hundratals gamla LÄS-uppgifter fr�
 
 Utöver LÄS-uppgifterna finns det även tusentals andra uppgifter där samtliga matematikuppgifter har utförliga förklaringar och uträkningar. Övningsportalen har hjälpt tusentals provskrivare nå ett högre resultat.
 
-[Läs mer om HPSkolan](https://www.högskoleprovet.nu)
+{{%read-more%}}
 
 
 #### Allmänt
