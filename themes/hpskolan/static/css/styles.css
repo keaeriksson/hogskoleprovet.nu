@@ -1039,6 +1039,13 @@ input[type="checkbox"] {
   height: 2.25rem;
 }
 
+.owl {
+  display: block;
+  margin: 0 auto;
+  width: 90%;
+  margin-top: 130px;
+}
+
 /*************************/
 /*     05. Customers     */
 /*************************/
