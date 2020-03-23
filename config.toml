@@ -2,7 +2,7 @@ languageCode = "se-SE"
 title = "Träna på Högskoleprovet - Såhär blir du expert - Högskoleprovet.nu"
 theme = "hpskolan"
 
-baseURL = "http://hpskolan-public.s3-website-eu-west-1.amazonaws.com/"
+baseURL = "https://d1iouh2uob27at.cloudfront.net/"
 
 [params]
 author = "HPSkolan"
@@ -21,6 +21,7 @@ unsafe = true
 [[deployment.targets]]
 name = "prod"
 URL = "s3://hpskolan-public?region=eu-west-1"
+cloudFrontDistributionID = "E382B3D2K2RXRS"
 
 [[deployment.matchers]]
 #  Cache static assets for 1 year.

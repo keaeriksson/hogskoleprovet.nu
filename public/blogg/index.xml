@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bloggs on Tränga på Högskoleprovet - Såhär blir du expert - Högskoleprovet.nu</title>
-    <link>http://hpskolan-public.s3-website-eu-west-1.amazonaws.com/blogg/</link>
+    <link>https://d1iouh2uob27at.cloudfront.net/blogg/</link>
     <description>Recent content in Bloggs on Tränga på Högskoleprovet - Såhär blir du expert - Högskoleprovet.nu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>se-SE</language>
     <lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://hpskolan-public.s3-website-eu-west-1.amazonaws.com/blogg/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://d1iouh2uob27at.cloudfront.net/blogg/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vad gör en systemvetare?</title>
-      <link>http://hpskolan-public.s3-website-eu-west-1.amazonaws.com/vad-gor-systemvetare/</link>
+      <link>https://d1iouh2uob27at.cloudfront.net/vad-gor-systemvetare/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://hpskolan-public.s3-website-eu-west-1.amazonaws.com/vad-gor-systemvetare/</guid>
+      <guid>https://d1iouh2uob27at.cloudfront.net/vad-gor-systemvetare/</guid>
       <description>Intervju Lennart Johansson Lennart, 26, skrev högskoleprovet 2012 för att öka chanserna att komma in på sin universitetet. Genom att träna på gamla högskoleprov lyckades han uppnå ett resultat på 1.6 andra gången han skrev provet. Med sitt resultat i handen var det dags att göra ansökan till universitet. Lennart hade testat på programmering innan och visste att han ville arbeta inom IT men var osäker på om han ville gå en tekniskt tung civilingenjörsutbildning eller en lite bredare utbildning inom systemvetenskap.</description>
     </item>
     

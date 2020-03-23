@@ -1,42 +1,75 @@
-AWSTemplateFormatVersion: 2010-09-09
+AWSTemplateFormatVersion: "2010-09-09"
+Description: HPSkolan Resource Template
+Parameters:
+  BaseName:
+    Description: Base name
+    Type: String
+    Default: hpskolan-public
+  HostedZoneName:
+    Description: Hosted zone
+    Type: String
+    Default: xn--hgskoleprovet-imb.nu.
+  DomainName:
+    Description: Domain name
+    Type: String
+    Default: xn--hgskoleprovet-imb.nu
 Resources:
-  S3Bucket:
+  Bucket:
     Type: AWS::S3::Bucket
     Properties:
       BucketName: hpskolan-public
-      AccessControl: PublicRead
-      WebsiteConfiguration:
-        IndexDocument: index.html
-        ErrorDocument: error.html
-    DeletionPolicy: Retain
   BucketPolicy:
     Type: AWS::S3::BucketPolicy
     Properties:
+      Bucket: !Ref Bucket
       PolicyDocument:
-        Id: MyPolicy
-        Version: 2012-10-17
         Statement:
-          - Sid: PublicReadForGetBucketObjects
+          - Action:
+              - s3:GetObject
             Effect: Allow
-            Principal: '*'
-            Action: 's3:GetObject'
-            Resource: !Join 
-              - ''
-              - - 'arn:aws:s3:::'
-                - !Ref S3Bucket
-                - /*
-      Bucket: !Ref S3Bucket
-Outputs:
-  WebsiteURL:
-    Value: !GetAtt 
-      - S3Bucket
-      - WebsiteURL
-    Description: URL for website hosted on S3
-  S3BucketSecureURL:
-    Value: !Join 
-      - ''
-      - - 'https://'
-        - !GetAtt 
-          - S3Bucket
-          - DomainName
-    Description: Name of S3 bucket to hold website content
+            Resource: !Join ["", ["arn:aws:s3:::", !Ref Bucket, "/*"]]
+            Principal:
+              CanonicalUser: !GetAtt CloudFrontOriginAccessIdentity.S3CanonicalUserId
+  CloudFrontOriginAccessIdentity:
+    Type: AWS::CloudFront::CloudFrontOriginAccessIdentity
+    Properties:
+      CloudFrontOriginAccessIdentityConfig:
+        Comment: !Sub "CloudFront OAI for ${DomainName}"
+  CloudFrontDistribution:
+    Type: AWS::CloudFront::Distribution
+    DependsOn:
+      - Bucket
+    Properties:
+      DistributionConfig:
+        Aliases:
+          - !Ref DomainName
+        DefaultCacheBehavior:
+          AllowedMethods:
+            - HEAD
+            - OPTIONS
+            - GET
+          ForwardedValues:
+            QueryString: true
+          TargetOriginId:
+            Ref: BaseName
+          ViewerProtocolPolicy: redirect-to-https
+          Compress: true
+        CustomErrorResponses:
+          - ErrorCode: 403
+            ResponseCode: 404
+            ResponsePagePath: /404.html
+          - ErrorCode: 404
+            ResponseCode: 404
+            ResponsePagePath: /404.html
+        DefaultRootObject: index.html
+        Enabled: Yes
+        ViewerCertificate:
+          SslSupportMethod: sni-only
+          AcmCertificateArn: arn:aws:acm:us-east-1:244998676221:certificate/d73f4eeb-ce91-4876-a7f3-694f11805b8e
+        Origins:
+          - Id:
+              Ref: BaseName
+            DomainName: !GetAtt Bucket.DomainName
+            S3OriginConfig:
+              OriginAccessIdentity: !Join ['', ['origin-access-identity/cloudfront/', !Ref CloudFrontOriginAccessIdentity]]
+
