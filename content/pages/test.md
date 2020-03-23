@@ -17,7 +17,7 @@ Genomtänkta och pedagogiska test är ett bra verktyg för att öva på högskol
 
 Högskoleprovet.nu har skapat en övningsportal som heter HPSkolan. I HPSkolan kan du skapa egna test med frågor från alla högskoleprovet kategorier. Om du vill kan du också göra de 10 senaste högskoleproven, men rättning, tidtagning, facit och förklaringar till matteuppgifterna. Förutom de test som finns i HPSkolan har vi också skapat några enklare test som vi listat nedan. De kan du öva på helt gratis, men om du verkligen vill förbättra din prestation på högskoleprovet rekommenderar vi dig att kika på HPSkolan.
 
-[Läs mer om HPSkolan](https://www.högskoleprovet.nu)
+{{%read-more%}}
 
 
 ### Gratis test högskoleprovet
@@ -33,11 +33,11 @@ Om du känner med dig att ord är något du behöver träna mer på rekommendera
 {{% ord-test%}}
 
 
-#### Matte test
+#### Mattetest
 
-Högskoleprovet består utav två verbala delar och två kvantitativa delar. I de kvantitativa delarna handlar det nästan uteslutande om mattekunskaper. Bra matte test kan hjälpa dig bli bättre på högskoleprovets matematik. Det svåra med matten är att det oftast är ganska enkelt när man kan en uppgift, men så fort man inte förstår en uppgift är det inte så lätt att förstå varför. Därför har vi i vår övningsportal HPSkolan skrivit bra förklaringar för matteuppgifterna från gamla högskoleprov. Dessa förklaringar kan du kolla på när du inte förstår en uppgift och förhoppningsvis hjälper dem dig förstå.
+Högskoleprovet består utav två verbala delar och två kvantitativa delar. I de kvantitativa delarna handlar det nästan uteslutande om mattekunskaper. Bra mattetest kan hjälpa dig bli bättre på högskoleprovets matematik. Det svåra med matten är att det oftast är ganska enkelt när man kan en uppgift, men så fort man inte förstår en uppgift är det inte så lätt att förstå varför. Därför har vi i vår övningsportal HPSkolan skrivit bra förklaringar för matteuppgifterna från gamla högskoleprov. Dessa förklaringar kan du kolla på när du inte förstår en uppgift och förhoppningsvis hjälper dem dig förstå.
 
-Nedan har vi sammanställt två stycken matte test. Varje test innehåller 10 uppgifter vardera som även har bra förklaringar. Om du vill göra fler matteuppgifter rekommenderar vi som sagt HPSkolan. Där finns det hundratals bra matteuppgifter.
+Nedan har vi sammanställt två stycken mattetest. Varje test innehåller 10 uppgifter vardera som även har bra förklaringar. Om du vill göra fler matteuppgifter rekommenderar vi som sagt HPSkolan. Där finns det hundratals bra matteuppgifter.
 
 {{% matte-test%}}
 
@@ -52,7 +52,7 @@ För att bli bra på ”time management” behöver du öva med tidtagning. Ett 
 
 I HPSkolan vår övningsportal kan du göra de 10 senaste högskoleproven med rättning, facit, förklaringar och tidtagning! Du kan själv välja hur mycket tid du vill ha. Vi rekommenderar HPSkolan om du verkligen mig förbättra ditt resultat.
 
-[Läs mer om HPSkolan](https://www.högskoleprovet.nu)
+{{%read-more%}}
 
 
 {{% email-signup%}}

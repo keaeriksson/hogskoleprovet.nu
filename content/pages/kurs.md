@@ -1,12 +1,12 @@
 ---
-title: Högskoleprovet Kurs
+title: Högskoleprovet kurs
 date: "2012-04-06"
 description: Ibland kan det behövas en dedikerad kurs för att du lättare ska komma igång med studierna inför Högskoleprovet. I den här artikeln går vi igenom olika typer av kurser samt berättar om vår egna övningsportal HPSkolan. Häng på!
 url: "/hogskoleprovet-kurs/"
 ---
 
 
-## Kurser för Högskoleprovet
+## Kurser för högskoleprovet
 
 Att gå en kurs i högskoleprovet kan vara ett bra sätt att öka ditt resultat på högskoleprovet. Detta kan i sin tur leda till att du kommer in på din drömutbildning. Hundratals personer väljer varje år att gå en kurs för att förbättra sina resultat. På den här sidan har vi samlat all information om kurser inom högskoleprovet. Vi går igenom varför du borde gå en kurs i högskoleprovet samt vilka kurser det finns att välja mellan. Slutligen ger vi dig tips för hur du kan hitta en kurs som passar just dig och dina behov.
 
@@ -16,7 +16,7 @@ En kurs i högskoleprovet på distans kan vara ett bra upplägg av flera anledni
 
 Här på Högskoleprovet.nu har vi utvecklat en distanskurs i högskoleprovet som passar perfekt för dig som värdesätter detta. I vår kurs HPSkolan sker allt online och du kan träna precis när och var du vill. I HPSkolan har vi samlat över 6000 övningsfrågor där du får utförliga förklaringar på alla matematikuppgifter.
 
-[Läs mer om HPSkolan](https://www.högskoleprovet.nu)\
+{{%read-more%}}
 
 Genom att använda läget Snabbövning kan du sätta ihop ett eget prov med kategorierna du vill träna på. Du bestämmer också hur många frågor du vill ha och hur lång tid du vill ha på dig. Snabbövning är perfekt för dig som snabbt vill dyka in och träna på kategorierna du behöver förbättra ditt resultat på. Efter att en Snabbövning är avslutad får du se en utförlig resultatsida. På resultatsidan kan du analysera ditt resultat och enkelt se vad du behöver träna mer på.
 

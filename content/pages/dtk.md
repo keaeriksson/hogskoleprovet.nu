@@ -20,7 +20,7 @@ I vår övningsportal HPSkolan har vi samlat hundratals gamla DTK-uppgifter frå
 
 Utöver DTK-uppgifterna finns det även tusentals andra uppgifter där till exempel alla matteuppgifter har utförliga förklaringar och uträkningar. Övningsportalen har hjälpt tusentals provskrivare att nå ett högre resultat.
 
-[Läs mer om HPSkolan](https://www.högskoleprovet.nu/)
+{{%read-more%}}
 
 
 ### Lär dig de olika diagrammen, tabellerna och kartorna
@@ -74,7 +74,7 @@ Tabeller innehåller data i form av ett rutnät. Nedan är ett exempel på en ta
 
 Här är en utmaning de olika förkortningarna vi behöver ta reda på för att hitta information om en specifik fladdermusart. Ska vi till exempel ta reda på antalet radarobservationer av stor fladdermus under 2005 måste vi först hitta förkortningen för stor fladdermus i den nedre tabellen – Nnoc. Tittar vi i kolumnen Nnoc hittar vi sedan raderna för 2005 och slutligen raden som visar radarobservationer. Antalet radarobservationer av stor fladdermus år 2005 var alltså 425.
 
-Ofta kräver dock uppgifterna på Högskoleprovet att du måste summera olika rader i tabellen för att få fram rätt svar. Då gäller det att snabbt skaffa sig en uppfattning om hur tabellen är strukturerad för att hitta rätt data och räkna ut svaret.
+Ofta kräver dock uppgifterna på högskoleprovet att du måste summera olika rader i tabellen för att få fram rätt svar. Då gäller det att snabbt skaffa sig en uppfattning om hur tabellen är strukturerad för att hitta rätt data och räkna ut svaret.
 
 #### Kartor
 

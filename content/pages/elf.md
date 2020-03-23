@@ -20,7 +20,7 @@ Ett av de bästa sätten att bli bättre på högskoleprovets ELF-del är genom 
 
 Utöver ELF-uppgifterna finns det även tusentals andra uppgifter där tillexempel alla matteuppgifter har utförliga förklaringar och uträkningar. Övningsportalen har hjälp tusentals provskrivare nå ett högre resultat. Studera.nu tillgängliggör tyvärr bara gamla ELF-uppgifter i en veckas tid.
 
-[Läs mer om HPSkolan](https://www.högskoleprovet.nu)
+{{%read-more%}}
 
 ### Fler tips
 

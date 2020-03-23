@@ -1,7 +1,7 @@
 ---
 title: Högskoleprovet XYZ
 date: "2012-04-06"
-description: Vill du blir expert på Högskoleprovets XYZ del? I den här artikeln ger vi dig en introduktion till vad för typ av uppgifter som kommer på XYZ och hur du tacklar dem. Du får också tillgång till två matte test i HPSkolans provsimulator. Häng på!
+description: Vill du blir expert på Högskoleprovets XYZ del? I den här artikeln ger vi dig en introduktion till vad för typ av uppgifter som kommer på XYZ och hur du tacklar dem. Du får också tillgång till två mattetest i HPSkolans provsimulator.
 url: "/xyz/"
 ---
 {{% mathjax %}}
@@ -26,9 +26,9 @@ I vår övningsportal HPSkolan har vi samlat hundratals gamla XYZ-uppgifter frå
 
 Utöver XYZ-uppgifterna finns det även tusentals andra uppgifter där samtliga matematikuppgifter har utförliga förklaringar och uträkningar. Övningsportalen har hjälpt tusentals provskrivare nå ett högre resultat.
 
-[Läs mer om HPSkolan](https://www.högskoleprovet.nu)
+{{%read-more%}}
 
-Om du vill kan du prova HPSKolan genom att göra något av våra gratis matte test i övningsportalen. Klicka på någon av testen nedan så kommer provsimulatorn startas med ditt test. Lycka till!
+Om du vill kan du prova HPSKolan genom att göra något av våra gratis mattetest i övningsportalen. Klicka på någon av testen nedan så kommer provsimulatorn startas med ditt test. Lycka till!
 
 {{% matte-test%}}
 
