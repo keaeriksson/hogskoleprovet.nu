@@ -50,9 +50,9 @@ Colors:
   font-style: normal;
   font-weight: 400;
   src: local("Open Sans Regular"), local("OpenSans-Regular"),
-    url("fonts/open-sans-v17-latin-ext_latin-regular.woff2") format("woff2"),
+    url("../fonts/open-sans-v17-latin-ext_latin-regular.woff2") format("woff2"),
     /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("fonts/open-sans-v17-latin-ext_latin-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+      url("../fonts/open-sans-v17-latin-ext_latin-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* open-sans-italic - latin-ext_latin */
 @font-face {
@@ -60,9 +60,9 @@ Colors:
   font-style: italic;
   font-weight: 400;
   src: local("Open Sans Italic"), local("OpenSans-Italic"),
-    url("fonts/open-sans-v17-latin-ext_latin-italic.woff2") format("woff2"),
+    url("../fonts/open-sans-v17-latin-ext_latin-italic.woff2") format("woff2"),
     /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("fonts/open-sans-v17-latin-ext_latin-italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+      url("../fonts/open-sans-v17-latin-ext_latin-italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* open-sans-700 - latin-ext_latin */
 @font-face {
@@ -70,9 +70,9 @@ Colors:
   font-style: normal;
   font-weight: 700;
   src: local("Open Sans Bold"), local("OpenSans-Bold"),
-    url("fonts/open-sans-v17-latin-ext_latin-700.woff2") format("woff2"),
+    url("../fonts/open-sans-v17-latin-ext_latin-700.woff2") format("woff2"),
     /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("fonts/open-sans-v17-latin-ext_latin-700.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+      url("../fonts/open-sans-v17-latin-ext_latin-700.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 /******************************/
@@ -844,7 +844,7 @@ input[type="checkbox"] {
 .navbar-custom {
   background-color: #1089ff;
   box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
-  font: 400 0.875rem/0.875rem "Open Sans", sans-serif;
+  font: 700 0.875rem/0.875rem "Open Sans", sans-serif;
   transition: all 0.2s;
 }
 
@@ -916,7 +916,7 @@ input[type="checkbox"] {
 .navbar-custom .dropdown-item {
   background-color: #fff;
   color: #1089ff;
-  font: 400 0.875rem/0.875rem "Open Sans", sans-serif;
+  font: 700 0.875rem/0.875rem "Open Sans", sans-serif;
   text-decoration: none;
   min-width: 100px;
 }
@@ -1013,8 +1013,8 @@ input[type="checkbox"] {
   margin-right: 0.5rem;
   margin-bottom: 1.125rem;
   margin-left: 0.5rem;
-  border-color: #f3f7fd;
-  background-color: #f3f7fd;
+  border-color: #fff;
+  background-color: #fff;
   color: #1089ff;
 }
 

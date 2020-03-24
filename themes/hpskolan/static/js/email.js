@@ -53,35 +53,38 @@ function postForm(shortcode, email_adress) {
 }
 
 window.onload = function() {
-  document.getElementById("emailSubmit").onclick = function fun() {
-    if (document.getElementById("toc-big").checked) {
-      var ele = document.getElementById("email-spinner-wrapper");
-      var ele2 = document.getElementById("email-message-error");
-      var ele3 = document.getElementById("email-message-success");
-      ele.classList.remove("hide");
-      ele2.classList.add("hide");
-      ele3.classList.add("hide");
-      postForm("big", document.getElementById("email_address").value);
-    } else {
-      var ele2 = document.getElementById("email-message-error");
-      ele2.classList.remove("hide");
-    }
-  };
-
-  document.getElementById("emailSmallSubmit").onclick = function fun() {
-    if (document.getElementById("toc-small").checked) {
-      var ele = document.getElementById("small-email-spinner-wrapper");
-      var ele2 = document.getElementById("small-email-message-error");
-      var ele3 = document.getElementById("small-email-message-success");
-      var ele4 = document.getElementById("small-email-button-text");
-      ele.classList.remove("hide");
-      ele2.classList.add("hide");
-      ele3.classList.add("hide");
-      ele4.classList.add("hide");
-      postForm("small", document.getElementById("email_address_small").value);
-    } else {
-      var ele2 = document.getElementById("small-email-message-error");
-      ele2.classList.remove("hide");
-    }
-  };
+  if (document.getElementById("emailSubmit")) {
+    document.getElementById("emailSubmit").onclick = function fun() {
+      if (document.getElementById("toc-big").checked) {
+        var ele = document.getElementById("email-spinner-wrapper");
+        var ele2 = document.getElementById("email-message-error");
+        var ele3 = document.getElementById("email-message-success");
+        ele.classList.remove("hide");
+        ele2.classList.add("hide");
+        ele3.classList.add("hide");
+        postForm("big", document.getElementById("email_address").value);
+      } else {
+        var ele2 = document.getElementById("email-message-error");
+        ele2.classList.remove("hide");
+      }
+    };
+  }
+  if (document.getElementById("emailSmallSubmit")) {
+    document.getElementById("emailSmallSubmit").onclick = function fun() {
+      if (document.getElementById("toc-small").checked) {
+        var ele = document.getElementById("small-email-spinner-wrapper");
+        var ele2 = document.getElementById("small-email-message-error");
+        var ele3 = document.getElementById("small-email-message-success");
+        var ele4 = document.getElementById("small-email-button-text");
+        ele.classList.remove("hide");
+        ele2.classList.add("hide");
+        ele3.classList.add("hide");
+        ele4.classList.add("hide");
+        postForm("small", document.getElementById("email_address_small").value);
+      } else {
+        var ele2 = document.getElementById("small-email-message-error");
+        ele2.classList.remove("hide");
+      }
+    };
+  }
 };

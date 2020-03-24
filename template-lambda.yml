@@ -1,0 +1,55 @@
+
+
+AWSTemplateFormatVersion: "2010-09-09"
+Description: HPSkolan Lambda
+Parameters:
+  DomainName:
+    Description: Domain name
+    Type: String
+    Default: xn--hgskoleprovet-imb.nu
+Resources:
+  OriginRequestLambdaFunction:
+    Type: AWS::Lambda::Function
+    Properties:
+      Description: >
+        Lambda function performing request URI rewriting.
+      Code:
+        ZipFile: |
+          const path = require('path');
+          exports.handler = async (event) => {
+            var request = event.Records[0].cf.request;
+            // Rewrite clean URLs (adding index.html)
+            if (!path.extname(request.uri)) {
+              request.uri = request.uri.replace(/\/?$/, '\/index.html');
+            }
+            return request;
+          };
+      Handler: index.handler
+      MemorySize: 128
+      Role: !Sub ${OriginRequestLambdaFunctionExecutionRole.Arn}
+      Runtime: nodejs10.x
+      Tags:
+        - Key: Domain
+          Value: !Ref DomainName
+
+  OriginRequestLambdaFunctionVersion:
+    Type: AWS::Lambda::Version
+    Properties:
+      FunctionName: !Ref OriginRequestLambdaFunction
+      Description: !Sub "URL rewriting for ${DomainName}"
+
+  OriginRequestLambdaFunctionExecutionRole:
+    Type: AWS::IAM::Role
+    Properties:
+      AssumeRolePolicyDocument:
+        Version: 2012-10-17
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service:
+                - edgelambda.amazonaws.com
+                - lambda.amazonaws.com
+            Action:
+              - sts:AssumeRole
+      ManagedPolicyArns:
+        - arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole

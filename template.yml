@@ -13,6 +13,11 @@ Parameters:
     Description: Domain name
     Type: String
     Default: xn--hgskoleprovet-imb.nu
+  USEastLambdaArn:
+    Description: USEastLambdaArn
+    Type: String
+    Default: arn:aws:lambda:us-east-1:244998676221:function:hpskolan-lambda-OriginRequestLambdaFunction-1SL2ED15VEWPR:1
+
 Resources:
   Bucket:
     Type: AWS::S3::Bucket
@@ -53,6 +58,9 @@ Resources:
           TargetOriginId:
             Ref: BaseName
           ViewerProtocolPolicy: redirect-to-https
+          LambdaFunctionAssociations:
+            - EventType: origin-request
+              LambdaFunctionARN: !Ref USEastLambdaArn
           Compress: true
         CustomErrorResponses:
           - ErrorCode: 403
