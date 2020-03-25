@@ -1044,7 +1044,6 @@ input[type="checkbox"] {
   margin: 0 auto;
   width: 69%;
   margin-top: 130px;
-  transform: rotate(-2deg);
 }
 
 /*************************/
@@ -2479,9 +2478,3 @@ h4 {
   /* end of extra pages */
 }
 /* end of min-width width 1200px */
-
-@media (max-width: 920px) {
-  .owl {
-    transform: rotate(0deg);
-  }
-}
