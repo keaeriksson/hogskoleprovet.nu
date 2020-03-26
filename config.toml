@@ -20,7 +20,7 @@ unsafe = true
 
 [[deployment.targets]]
 name = "prod"
-URL = "s3://hpskolan-public?region=eu-west-1"
+URL = "s3://www-hpskolan-public-prod?region=eu-west-1"
 cloudFrontDistributionID = "E382B3D2K2RXRS"
 
 [[deployment.matchers]]
