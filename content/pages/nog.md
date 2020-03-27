@@ -2,7 +2,7 @@
 title: Högskoleprovet NOG
 date: "2012-04-06"
 description: I den här artikeln om Högskoleprovets NOG-del har vi samlat flera bra förberedelser och strategier som du kan använda för att förbättra ditt resultat på NOG-delen!
-url: "/nog/"
+url: "/nog"
 ---
 {{% mathjax %}}
 ## Introduktion NOG

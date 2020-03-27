@@ -2,7 +2,7 @@
 title: Högskoleprovets delprov
 date: "2012-04-06"
 description: Det kan vara svårt att hålla koll på alla högskoleprovets olika delprov. Därför har vi på den här sidan beskrivit varje delprov.
-url: "/delprov/"
+url: "/delprov"
 ---
 
 ## Introduktion
@@ -24,28 +24,28 @@ De verbala delproven består av svensk och engelsk läs- och ordförståelse. De
 #### ORD - Svensk ordförståelse (20 uppgifter)
 
 ORD-delen står för 20 uppgifter på de verbala delproven. Här testas din svenska ordkunskap.
-[Läs mer om hur du tränar på ord-delen](/ord/)
+[Läs mer om hur du tränar på ord-delen](/ord)
 
 ----
 
 #### LÄS - Svensk läsförståelse (20 uppgifter)
 
 LÄS-delen står även den för 120 uppgifter på de verbala delproven. Här testas din kunskap i det svenska språket genom uppgifter där du läser en text och sen svarar på frågor kring den.
-[Läs mer om hur du tränar på läs-delen](/las/)
+[Läs mer om hur du tränar på läs-delen](/las)
 
 ----
 
 #### MEK - Svensk meningskomplettering (20 uppgifter)
 
 MEK-delen står även den för 20 uppgifter på de verbala delproven. Här testas din kunskap i det svenska språkets meningsuppbyggnad. Uppgifterna består av kortare texter där man tagit bort vissa ord. Din uppgift är sedan att utifrån 4 alternativ välja de orden som saknas.
-[Läs mer om hur du tränar på mek-delen](/mek/)
+[Läs mer om hur du tränar på mek-delen](/mek)
 
 ----
 
 #### ELF - Engelsk läsförståelse (20 uppgifter)
 
 ELF-delen liknar till stor del LÄS-delen med skillnaden att uppgifterna och svarsalternativen nu är på engelska. Det är din engelska läsförståelse som prövas.
-[Läs mer om hur du tränar på elf-delen](/elf/)
+[Läs mer om hur du tränar på elf-delen](/elf)
 
 ----
 
@@ -58,28 +58,28 @@ De kvantitativa delarna består även dem av 2×40 uppgifter. Dessa uppgifter in
 #### XYZ - Matematiska problem (24 uppgifter)
 
 XYZ-delen är den första kategorin på varje kvantitativt delprov. Här testas din förmåga att lösa matematiska problem inom aritmetik, algebra och geometri.
-[Läs mer om hur du tränar på xyz-delen](/xyz/)
+[Läs mer om hur du tränar på xyz-delen](/xyz)
 
 ----
 
 #### NOG - Logiska resonemang (12 uppgifter)
 
 NOG-delen består utav uppgifter som testar din förmåga till logiska resonemang. Uppgifterna går ut på att ta ställning till och resonera kring ett antal påståenden som görs i uppgiften.
-[Läs mer om hur du tränar på nog-delen](/nog/)
+[Läs mer om hur du tränar på nog-delen](/nog)
 
 ----
 
 #### KVA - Kvantitativa resonemang (20 uppgifter)
 
 KVA-delen på Högskoleprovet består utav kvantitativa jämförelser. Det kan vara svårt att förstå vad det innebär, men i grunden handlar det om att jämföra olika mängder.
-[Läs mer om hur du tränar på kva-delen](/kva/)
+[Läs mer om hur du tränar på kva-delen](/kva)
 
 ----
 
 #### DTK - Matematiska problem (24 uppgifter)
 
 DTK-delen på Högskoleprovet består av diagram, kartor och tabeller. Det brukar alltid vara 2-5 uppgifter per diagram, karta eller tabell.
-[Läs mer om hur du tränar på dtk-delen](/dtk/)
+[Läs mer om hur du tränar på dtk-delen](/dtk)
 
 ----
 

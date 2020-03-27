@@ -2,7 +2,7 @@
 title: Kontakta oss
 date: "2012-04-06"
 description: Vi värdesätter all kontakt och feedback från våra besökare och användare. Om du har någon fråga kan du kontakta oss på kurser(at)adalyte.com. Vi svarar så snabbt vi kan!
-url: "/kontakt/"
+url: "/kontakt"
 ---
 
 ### Feedback

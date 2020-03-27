@@ -1,5 +1,5 @@
 <li class="post-stub">
-    <a href="{{ .Permalink }}">
+    <a href="{{ substr .Permalink 0 -1 }}">
         <h4 class="post-stub-title">{{ .Title }}</h4>
         {{ if .Description }}
             <p class="post-stub-description">{{ .Description }}</p>

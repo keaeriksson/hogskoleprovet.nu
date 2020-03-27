@@ -3,7 +3,7 @@ title: Fuska på högskoleprovet
 date: "2012-04-06"
 description: Funderar du på att fuska på högskoleprovet? Då rekommenderar vi dig att läsa all information på den här sidan först!
 
-url: "/fusk/"
+url: "/fusk"
 ---
 
 ### Valet att fuska på högskoleprovet

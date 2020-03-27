@@ -2,7 +2,7 @@
 title: Högskoleprovet MEK
 date: "2012-04-06"
 description: I den här artikeln har vi samlat flera tips på hur du förbereder dig inför provet samt strategier du kan använda medan du skriver provet. Vi hoppas att du med dessa i din verktygslåda kan skriva ett så bra resultat som möjligt på Högskoleprovet!
-url: "/mek/"
+url: "/mek"
 ---
 
 ## Introduktion MEK

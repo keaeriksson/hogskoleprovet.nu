@@ -2,7 +2,7 @@
 title: Högskoleprovet DTK
 date: "2012-04-06"
 description: Delprov DTK testar din förmåga att tolka och inhämta information från diagram, tabeller och kartor. Denna kunskap är något som är mycket viktig under högskolestudier då forskning ofta presenteras i form av just diagram, tabeller och kartor.
-url: "/dtk/"
+url: "/dtk"
 ---
 
 

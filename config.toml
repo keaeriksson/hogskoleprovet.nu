@@ -2,7 +2,7 @@ languageCode = "se-SE"
 title = "Träna på Högskoleprovet - Såhär blir du expert - Högskoleprovet.nu"
 theme = "hpskolan"
 
-baseURL = "https://d1iouh2uob27at.cloudfront.net/"
+baseURL = "https://d3efemp608ne9j.cloudfront.net/"
 
 [params]
 author = "HPSkolan"
@@ -20,7 +20,7 @@ unsafe = true
 
 [[deployment.targets]]
 name = "prod"
-URL = "s3://www-hpskolan-public-prod?region=eu-west-1"
+URL = "s3://hpskolan-public-prod?region=eu-west-1"
 cloudFrontDistributionID = "E382B3D2K2RXRS"
 
 [[deployment.matchers]]

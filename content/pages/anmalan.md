@@ -2,7 +2,7 @@
 title: Anmälan Högskoleprovet
 date: "2012-04-06"
 description: Här hittar du all information om hur du anmäler dig till Högskoleprovet 2020. Det är viktigt att ha koll på datumen då UHR är kända för att inte tillåta sena anmälningar.
-url: "/anmalan/"
+url: "/anmalan"
 ---
 
 

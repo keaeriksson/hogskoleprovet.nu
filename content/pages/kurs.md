@@ -2,7 +2,7 @@
 title: Högskoleprovet kurs
 date: "2012-04-06"
 description: Ibland kan det behövas en dedikerad kurs för att du lättare ska komma igång med studierna inför Högskoleprovet. I den här artikeln går vi igenom olika typer av kurser samt berättar om vår egna övningsportal HPSkolan. Häng på!
-url: "/hogskoleprovet-kurs/"
+url: "/hogskoleprovet-kurs"
 ---
 
 

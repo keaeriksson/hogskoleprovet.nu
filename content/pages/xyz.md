@@ -2,7 +2,7 @@
 title: Högskoleprovet XYZ
 date: "2012-04-06"
 description: Vill du blir expert på Högskoleprovets XYZ del? I den här artikeln ger vi dig en introduktion till vad för typ av uppgifter som kommer på XYZ och hur du tacklar dem. Du får också tillgång till två mattetest i HPSkolans provsimulator.
-url: "/xyz/"
+url: "/xyz"
 ---
 {{% mathjax %}}
 ## Introduktion XYZ

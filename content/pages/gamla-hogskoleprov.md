@@ -2,14 +2,14 @@
 title: Gamla Högskoleprov
 date: "2012-04-06"
 description: Att öva med hjälp av gamla högskoleprov är bland det bästa du kan göra! Högskoleprovets uppgifter är aldrig samma, men liknar varandra från år till år. Därför har du extra nytta av att studera uppgifter från tidigare prov. På den här sidan kan du ladda ner och läsa om hur du bör öva med gamla prov.
-url: "/gamla-hogskoleprov/"
+url: "/gamla-hogskoleprov"
 ---
 
 ## Såhär bör du utnyttja tidigare prov
 
 Visste du att över 60% av dem som tränar på gamla högskoleprov gör det på fel sätt? I den här artikeln lär vi dig exakt hur du ska utnyttja tidigare prov för att höja ditt resultat avsevärt. Vi låter dig också ladda ner proven helt gratis, eller så kan du testa vår interaktiva testsimulator med rättning, normering, facit, tidtagning och förklaringar. Detta vill du inte missa!
 
-[Läs mer om testen](/test/)\
+[Läs mer om testen](/test)\
 [Läs mer om hur du kan öva på gamla prov](/gamla-hogskoleprov#steg-1)
 
 

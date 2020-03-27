@@ -2,7 +2,7 @@
 title: Normeringstabeller
 date: "2012-04-06"
 description: Här hittar du normeringstabeller från tidigare högskoleprov.
-url: "/normeringstabeller/"
+url: "/normeringstabeller"
 ---
 
 ## Ladda ner normeringstabeller

@@ -2,7 +2,7 @@
 title: Högskoleprovet resultat
 date: "2012-04-06"
 description: Undrar du hur du räknar ut din poäng på Höskoleprovet? I den här artikeln går vi igenom var du kan hitta ditt resultat samt hur du kan räkna fram ditt resultat om du vet din poäng.
-url: "/resultat/"
+url: "/resultat"
 ---
 
 ## Introduktion
@@ -25,7 +25,7 @@ Först räknar du ut hur många rätt du hade på den kvantitativa respektive de
 
 (1,0+1,9)/2 = 1,45. Då har du en slutgiltig poäng på 1,45 och det är den högskoleprovspoängen som du söker utbildningar med.
 
-[Till normeringstabeller](/normeringstabeller/)
+[Till normeringstabeller](/normeringstabeller)
 
 ### Antagning med poäng från Högskoleprovet
 

@@ -2,7 +2,7 @@
 title: Högskoleprovet facit
 date: "2012-04-06"
 description: På den här sidan hittar du facit till flera gamla högskoleprov. Om du även vill ha uträkningar till proven rekommenderar vi vår övningsportal HPSkolan där vi tagit fram uträkningar för hundratals matteuppgifter från tidigare prov.
-url: "/facit/"
+url: "/facit"
 ---
 
 

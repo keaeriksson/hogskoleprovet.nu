@@ -2,7 +2,7 @@
 title: Högskoleprovet ORD
 date: "2012-04-06"
 description: Delprovet som tar tid att bemästra, men som ger mycket poäng när du väl lärt dig alla svåra ord. Här hittar du bra test, övningar och strategier inför högskoleprovets ORD-del.
-url: "/ord/"
+url: "/ord"
 ---
 
 

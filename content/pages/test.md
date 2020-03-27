@@ -2,7 +2,7 @@
 title: Högskoleprovet test
 date: "2012-04-06"
 description: Vill du se hur du ligger till på Högskoleprovet? Då kan du göra något av våra gratis test. Testen innehåller också facit och förklaringar vilket är bra när du övar inför provet! Prova nu och få en försmak av vilken typ av frågor som kommer på riktiga provet.
-url: "/test/"
+url: "/test"
 ---
 ## Gör gratis test inför Högskoleprovet
 

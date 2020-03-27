@@ -2,7 +2,7 @@
 title: Högskoleprovet ELF
 date: "2012-04-06"
 description: Högskoleprovets ELF-del handlar om att kunna läsa engelska både snabbt och noggrant. I den här artikeln förklarar vi ELF-delen och ger dig värdefulla tips du kommer ha nytta av.
-url: "/elf/"
+url: "/elf"
 ---
 
 ## Introduktion ELF

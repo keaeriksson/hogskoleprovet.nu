@@ -2,7 +2,7 @@
 title: Information om Högskoleprovet
 date: "2012-04-06"
 description: Här har vi sammanställt viktig information om Högskoleprovet
-url: "/om-hogskoleprovet/"
+url: "/om-hogskoleprovet"
 ---
 
 ## Introduktion
@@ -14,7 +14,7 @@ Högskoleprovet arrangeras två gånger per år – en gång på hösten och en 
 
 Provet innehåller 160 uppgifter som bygger på kunskaper från grund- och gymnasieskolan. Dessa 160 uppgifter är indelade i första hand i två delar: en verbal del och en kvantitativ del. Den verbala delen testar dina språkkunskaper i svenska och engelska medan den kvantitativa delen testar din matematiska och logiska kunskap.
 
-Dessa delar är i sin tur uppdelade i delprov. Den verbala delen är uppdelad i ELF, LÄS, MEK, och ORD medan den kvantitativa delen är uppdelad i DTK, KVA, NOG och XYZ. Du kan läsa mer om de olika delproven och vad de innehåller [här](/delprov/).
+Dessa delar är i sin tur uppdelade i delprov. Den verbala delen är uppdelad i ELF, LÄS, MEK, och ORD medan den kvantitativa delen är uppdelad i DTK, KVA, NOG och XYZ. Du kan läsa mer om de olika delproven och vad de innehåller [här](/delprov).
 
 ### Anmälan
 

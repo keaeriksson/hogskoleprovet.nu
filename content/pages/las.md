@@ -2,7 +2,7 @@
 title: Högskoleprovet LÄS
 date: "2012-04-06"
 description: På denna sida har vi samlat flera bra tips på hur du förbereder dig inför delprov LÄS samt olika strategier du kan använda dig av under provet för att maxa ditt resultat!
-url: "/las/"
+url: "/las"
 ---
 
 ## Introduktion LÄS

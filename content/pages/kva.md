@@ -2,7 +2,7 @@
 title: Högskoleprovet KVA
 date: "2012-04-06"
 description: Högskoleprovets KVA-del brukar ses som en av de klurigaste delarna på Högskoleprovet. Därför har vi ägnat denna sida åt att introducera dig i KVA delen och hur man tacklar sådana uppgifter.
-url: "/kva/"
+url: "/kva"
 ---
 
 
