@@ -14,9 +14,20 @@
             <div class="col-lg-12 col-xl-12">
               <div class="text-container">
                 <h1>{{.Title}}</h1>
-                <p class="p-large">
-                  {{.Description}}
-                </p>
+                {{ if .Params.long_description }}
+                  <div class="row">
+                    <div class="col-lg-6 p-large">
+                      {{ .Params.long_description | markdownify }}
+                    </div>
+                    <div class="col-lg-6">
+                      <img src="{{ .Params.featured_image }}" class="featured-image" />
+                    </div>
+                  </div>
+                {{ else }}
+                  <p class="p-large text-center">
+                  {{ .Description }}
+                  </p>
+                {{ end }}
                 <a class="btn-solid-lg page-scroll" href="#pages-content"
                   >LÄS MER</a
                 >
