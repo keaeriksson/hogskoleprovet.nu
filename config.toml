@@ -2,7 +2,7 @@ languageCode = "se-SE"
 title = "Träna på Högskoleprovet - Såhär blir du expert - Högskoleprovet.nu"
 theme = "hpskolan"
 
-baseURL = "https://d3efemp608ne9j.cloudfront.net/"
+baseURL = "https://www.högskoleprovet.nu/"
 
 [params]
 author = "HPSkolan"

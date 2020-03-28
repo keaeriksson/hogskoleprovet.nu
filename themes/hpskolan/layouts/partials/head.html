@@ -11,7 +11,8 @@
 	<meta property="og:site" content="{{ .Site.BaseURL }}" /> <!-- website link -->
 	<meta property="og:title" content="{{.Title}}"/> <!-- title shown in the actual shared post -->
 	<meta property="og:description" content="{{.Description}}" /> <!-- description shown in the actual shared post -->
-	<meta property="og:type" content="article" />
+    <meta property="og:type" content="article" />
+    <meta property="og:image" content="{{ .Site.BaseURL }}images/featured_default.png" />
 
     <!-- Website Title -->
     <title>{{.Title}}</title>
@@ -24,7 +25,17 @@
 	<link href="{{ .Site.BaseURL }}css/magnific-popup.css" rel="stylesheet">
     <link href="{{ .Site.BaseURL }}css/styles.css" rel="stylesheet">
     
-	
+    <!-- Tag manager-->
+    
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-W4DX6PK');</script>
+    <!-- End Google Tag Manager -->
+
+    
 	<!-- Favicon  -->
     <link rel="icon" href="{{ .Site.BaseURL }}images/favicon.png">
     {{- partial "schema.html" . -}}

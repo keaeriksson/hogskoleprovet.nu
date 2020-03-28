@@ -53,9 +53,9 @@ Resources:
           ViewerProtocolPolicy: redirect-to-https
           LambdaFunctionAssociations:
             - EventType: origin-request
-              LambdaFunctionARN: arn:aws:lambda:us-east-1:244998676221:function:hpskolan-edge-lambda-OriginRequestLambdaFunction-TTTR4Y8JU9EY:1
+              LambdaFunctionARN: arn:aws:lambda:us-east-1:244998676221:function:hpskolan-edge-lambda-OriginRequestLambdaFunction-TTTR4Y8JU9EY:2
             - EventType: viewer-request
-              LambdaFunctionARN: arn:aws:lambda:us-east-1:244998676221:function:hpskolan-edge-lambda-ViewerRequestLambdaFunction-1B0A2XK10BMTB:1
+              LambdaFunctionARN: arn:aws:lambda:us-east-1:244998676221:function:hpskolan-edge-lambda-ViewerRequestLambdaFunction-1B0A2XK10BMTB:2
           Compress: true
         CustomErrorResponses:
           - ErrorCode: 403
