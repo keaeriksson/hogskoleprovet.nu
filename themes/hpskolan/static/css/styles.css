@@ -1004,9 +1004,12 @@ input[type="checkbox"] {
   line-height: 3rem;
 }
 
-.header .p-large {
-  margin-bottom: 2rem;
+.header .p-large, .header .p-large p {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 18px;
   color: #f3f7fd;
+  text-align: left;
 }
 
 .header .btn-solid-lg {
@@ -1044,6 +1047,14 @@ input[type="checkbox"] {
   margin: 0 auto;
   width: 69%;
   margin-top: 130px;
+}
+
+.featured-image {
+  margin-top: 1rem;
+  display: block;
+  float: right;
+  max-height: 300px;
+  max-width: 100%;
 }
 
 /*************************/

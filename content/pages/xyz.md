@@ -2,6 +2,15 @@
 title: Högskoleprovet XYZ
 date: "2012-04-06"
 description: Vill du blir expert på Högskoleprovets XYZ del? I den här artikeln ger vi dig en introduktion till vad för typ av uppgifter som kommer på XYZ och hur du tacklar dem. Du får också tillgång till två mattetest i HPSkolans provsimulator.
+featured_image: /images/xyz.svg
+long_description: |
+    Vill du blir expert på Högskoleprovets XYZ del? I den här artikeln ger vi dig:
+    - Introduktion till XYZ-delen
+    - Exempeluppgifter med lösningsförslag
+    - Strategier och tips inför provet
+
+    Häng med och räkna med oss!
+
 url: "/xyz"
 ---
 {{% mathjax %}}
