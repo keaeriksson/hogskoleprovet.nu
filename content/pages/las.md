@@ -2,6 +2,14 @@
 title: Högskoleprovet LÄS
 date: "2012-04-06"
 description: På denna sida har vi samlat flera bra tips på hur du förbereder dig inför delprov LÄS samt olika strategier du kan använda dig av under provet för att maxa ditt resultat!
+long_description: |
+  På denna sida har vi samlar all information om delprov LÄS på högskoleprovet. Här hittar du bland annat:
+  - Hur du förbereder dig inför LÄS-delen för att maximera ditt resultat
+  - Tips och strategier du kan använda på provet
+  - En samling svåra svenska texter som du kan öva upp din läsning med
+
+  Häng med! 😃
+featured_image: /images/las.png
 url: "/las"
 ---
 
@@ -22,7 +30,6 @@ I vår övningsportal HPSkolan har vi samlat hundratals gamla LÄS-uppgifter fr�
 Utöver LÄS-uppgifterna finns det även tusentals andra uppgifter där samtliga matematikuppgifter har utförliga förklaringar och uträkningar. Övningsportalen har hjälpt tusentals provskrivare nå ett högre resultat.
 
 {{%read-more%}}
-
 
 #### Allmänt
 

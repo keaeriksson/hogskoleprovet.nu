@@ -4,20 +4,21 @@ date: "2012-04-06"
 description: Vill du blir expert på Högskoleprovets XYZ del? I den här artikeln ger vi dig en introduktion till vad för typ av uppgifter som kommer på XYZ och hur du tacklar dem. Du får också tillgång till två mattetest i HPSkolans provsimulator.
 featured_image: /images/xyz.svg
 long_description: |
-    Vill du blir expert på Högskoleprovets XYZ del? I den här artikeln ger vi dig:
-    - Introduktion till XYZ-delen
-    - Exempeluppgifter med lösningsförslag
-    - Strategier och tips inför provet
+  Vill du blir expert på Högskoleprovets XYZ del? I den här artikeln ger vi dig:
+  - Introduktion till XYZ-delen
+  - Exempeluppgifter med lösningsförslag
+  - Strategier och tips inför provet
 
-    Häng med och räkna med oss!
+  Häng med och räkna med HPSkolan! 🔢
 
 url: "/xyz"
 ---
+
 {{% mathjax %}}
+
 ## Introduktion XYZ
 
 {{% email-signup-small%}}
-
 
 Delprov XYZ innehåller 12 matteuppgifter där du ska svara exakt. Till varje uppgift finns det fyra svarsalternativ varav endast ett är rätt. Delprovet inehåller uppgifter inom aritmetik, algebra, geometri, funktionslära och statistik.
 
@@ -67,8 +68,6 @@ Nedan följer några områden som kan vara bra att lägga extra mycket fokus på
 
 - **Sträcka, hastighet och tid** – Och hur de förhåller sig till varandra.
 
-
-
 #### Öva med tidspress
 
 När du har kommit till stadiet att du kan de grundläggande reglerna och lösningsmetoderna utan och innan kan det vara en bra idé att öva med tidspress. Då kan du få ett hum om hur snabb du behöver vara för att hinna lösa alla uppgifter och kan hålla stressen nere på provet. Med hjälp av vårt läge Snabbövning kan du ta tid för att bedöma din hastighet.
@@ -90,13 +89,11 @@ x och y är positiva heltal sådan att $ 0 &lt; x &lt; y &lt; 10 $. **Hur många
 - **3.** 8
 - **4.** 9
 
-
 **Lösningsförslag**
 
 Tecknet $ &lt; $ innebär att uttrycket till vänster är mindre än uttrycket till höger.
 
 I uppgiften kan vi läsa att x och y är heltal vilket betyder att $ y $ högst kan vara 9. $ x $ kan alltså anta värdena 1, 2, 3, 4, 5, 6, 7 och 8. Detta är 8 olika värden vilket ger svaret C.
-
 
 **Rätt svar:** C
 

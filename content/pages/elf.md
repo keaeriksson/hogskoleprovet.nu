@@ -2,10 +2,20 @@
 title: Högskoleprovet ELF
 date: "2012-04-06"
 description: Högskoleprovets ELF-del handlar om att kunna läsa engelska både snabbt och noggrant. I den här artikeln förklarar vi ELF-delen och ger dig värdefulla tips du kommer ha nytta av.
+long_description: |
+  Högskoleprovets ELF-del handlar om att kunna läsa engelska både snabbt och noggrant. I den här artikeln kan du hitta:
+  - Introduktion till delprov ELF
+  - Hur du förbereder dig för att få ett toppresultat
+  - Strategier på provet
+  - Digitala övningsuppgifter med rättning
+
+  Let's go! 🤠
+featured_image: /images/elf.png
 url: "/elf"
 ---
 
 ## Introduktion ELF
+
 Delprov ELF prövar din förmåga att läsa och förstå engelsk text. Delprovet består av 20 frågor och du har ca två minuter på dig att lösa varje uppgift. ELF påminner mycket om delprov LÄS men är mer varierande sett till längden på texterna och hur uppgifterna är utformade.
 
 ### Förberedelser
@@ -16,7 +26,7 @@ För att få en bredd på sitt läsande inför ELF är det bra att variera de te
 
 ### Gamla ELF-uppgifter
 
-Ett av de bästa sätten att bli bättre på högskoleprovets ELF-del är genom att göra gamla elf-uppgifter. Då får du öva på texter som efterliknar exakt det som kommer på Högskoleprovet. I vår övningsportal HPSkolan finns det 100-tals gamla ELF-uppgifter med både facit och automatisk rättning. 
+Ett av de bästa sätten att bli bättre på högskoleprovets ELF-del är genom att göra gamla elf-uppgifter. Då får du öva på texter som efterliknar exakt det som kommer på Högskoleprovet. I vår övningsportal HPSkolan finns det 100-tals gamla ELF-uppgifter med både facit och automatisk rättning.
 
 Utöver ELF-uppgifterna finns det även tusentals andra uppgifter där tillexempel alla matteuppgifter har utförliga förklaringar och uträkningar. Övningsportalen har hjälp tusentals provskrivare nå ett högre resultat. Studera.nu tillgängliggör tyvärr bara gamla ELF-uppgifter i en veckas tid.
 
@@ -36,7 +46,6 @@ Under ELF är det precis som i delprov LÄS viktigt att inte fastna i texterna. 
 
 #### Lättast först
 
-Genom att titta igenom texterna som ingår i delprovet först och välja de som ser lättast ut först förlorar du inte de poängen om du skulle fastna på en av de längre texterna. I ELF rekommenderar vi att börja med meningskompletteringen då man oftast kan beta av den snabbt innan man sätter sig in i de mer tidskrävande texterna i lugn och ro. 
-
+Genom att titta igenom texterna som ingår i delprovet först och välja de som ser lättast ut först förlorar du inte de poängen om du skulle fastna på en av de längre texterna. I ELF rekommenderar vi att börja med meningskompletteringen då man oftast kan beta av den snabbt innan man sätter sig in i de mer tidskrävande texterna i lugn och ro.
 
 {{% email-signup%}}

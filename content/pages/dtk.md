@@ -4,15 +4,14 @@ date: "2012-04-06"
 description: Delprov DTK testar din förmåga att tolka och inhämta information från diagram, tabeller och kartor. Denna kunskap är något som är mycket viktig under högskolestudier då forskning ofta presenteras i form av just diagram, tabeller och kartor.
 featured_image: /images/dtk.png
 long_description: |
-    Delprov DTK testar din förmåga att tolka och inhämta information från diagram, tabeller och kartor. På denna sida går vi igenom:
-    - Introduktion till DTK-delen
-    - Teoriförberedelser inför provet
-    - Strategier och tips
+  Delprov DTK testar din förmåga att tolka och inhämta information från diagram, tabeller och kartor. På denna sida går vi igenom:
+  - Introduktion till DTK-delen
+  - Teoriförberedelser inför provet
+  - Strategier och tips
 
-    Nu kör vi!
+  Nu kör vi! 🗺️
 url: "/dtk"
 ---
-
 
 ## Introduktion DTK
 
@@ -29,7 +28,6 @@ I vår övningsportal HPSkolan har vi samlat hundratals gamla DTK-uppgifter frå
 Utöver DTK-uppgifterna finns det även tusentals andra uppgifter där till exempel alla matteuppgifter har utförliga förklaringar och uträkningar. Övningsportalen har hjälpt tusentals provskrivare att nå ett högre resultat.
 
 {{%read-more%}}
-
 
 ### Lär dig de olika diagrammen, tabellerna och kartorna
 
@@ -49,16 +47,13 @@ I rutan i övre högra hörnet kan vi se en förklaring för vad de olika linjer
 
 ![DTK Diagram](/images/provpass3-dtk-41.jpg)
 
-
 #### Stapeldiagram
 
 Stapeldiagram är en typ av diagram som visar data genom höjden på olika staplar. Ofta används stapeldiagram för att jämföra olika kategorier av data.
 
 Nedan är ett exempel från ett gammalt högskoleprov som visar statistik kring arbete efter avslutad gymnasieutbildning.
 
-
 ![DTK Stapeldiagram](/images/provpass1-dtk-41.jpg)
-
 
 Här kan vi se att de helsvarta staplarna representerar kvinnor medan de vita representerar män. För att läsa ut hur många män som gick ut fordonsprogrammet hittar vi rubriken “Fordonsprogrammet” till vänster och undersöker hur lång den vita stapeln är. Den ligger på strax över 3000. Ofta krävs det inte så hög precision för att hitta rätt svarsalternativ så du behöver inte mäta ut värdet på millimetern under provet. Det kan dock hjälpa att ta med en linjal för att enkelt kunna hitta var stapeln ligger på x-axeln.
 

@@ -2,15 +2,20 @@
 title: Högskoleprovet ORD
 date: "2012-04-06"
 description: Delprovet som tar tid att bemästra, men som ger mycket poäng när du väl lärt dig alla svåra ord. Här hittar du bra test, övningar och strategier inför högskoleprovets ORD-del.
+featured_image: /images/ord.png
+long_description: |
+  ORD-delen kan du plocka många poäng på när du väl repeterat in tillräckligt många svåra ord. På den här sidan hittar du:
+  - Hur du förbereder dig inför provet för att maximera ditt resultat
+  - Test med ord från gamla högskoleprov
+  - Strategier du kan använda på delprov ORD
 url: "/ord"
 ---
-
 
 ## Introduktion till ORD-delen
 
 [Klicka här om du vill göra våra gratis ORD test i vår interaktiva provsimulator](/ord#ord-test)
 
-Delprov ORD utgör 20 av Högskoleprovets 160 uppgifter och prövar din förmåga att förstå ord och begrepp. Varje uppgift inleds med ett ord eller uttryck i fet stil följt av fem svarsförslag. Din uppgift är att välja vilket av de fem svarsförslagen som bäst motsvarar innebörden i det givna ordet eller uttrycket. Ord delen handlar om att spara många svåra ord i minnet. Sen gäller det att plocka fram dem när det väl är dags.
+Delprov ORD utgör 20 av Högskoleprovets 160 uppgifter och prövar din förmåga att förstå ord och begrepp. Varje uppgift inleds med ett ord eller uttryck i fet stil följt av fem svarsförslag. Din uppgift är att välja vilket av de fem svarsförslagen som bäst motsvarar innebörden i det givna ordet eller uttrycket. ORD-delen handlar om att spara många svåra ord i minnet. Sen gäller det att plocka fram dem när det väl är dags.
 
 Nedan följer en exempeluppgift från Högskoleprovet VT 2017.
 
@@ -58,10 +63,10 @@ Många av våra svenska ord är lånade från andra språk. Om du inte känner i
 
 Många komplexa ord kan delas upp i flera ord eller stavelser som kan ge en idé om ordets betydelse. Till exempel kan man dela upp ordet kanske i kan och ske.
 
-### Ord Test
+### ORD-test
 
-Vill du öva på svåra ord? Då är våra ord test nedan perfekt för dig. Vi har gjort 10 test med ord från gamla högskoleprov. Det är bara att sätta igång och öva. I testen ingår även rättning och tidtagning. Prova med lite tid för att bli ordentligt stressad. Om du vill bli riktigt vass på ord-delen rekommenderar vi dig dock att bli medlem i vår övningsportal HPSkolan. Där finns det många fler svåra ord, exempelmeningar och synonymer. Lycka till!
+Vill du öva på svåra ord? Då är våra ORD-test nedan perfekt för dig. Vi har gjort 10 test med ord från gamla högskoleprov. Det är bara att sätta igång och öva. I testen ingår även rättning och tidtagning. Prova med lite tid för att bli ordentligt stressad. Om du vill bli riktigt vass på ORD-delen rekommenderar vi dig dock att bli medlem i vår övningsportal HPSkolan. Där finns det många fler svåra ord, exempelmeningar och synonymer. Lycka till!
 
-{{% ord-test%}}
+{{% ord-test %}}
 
-{{% email-signup%}}
+{{% email-signup %}}

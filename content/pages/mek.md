@@ -2,6 +2,15 @@
 title: Högskoleprovet MEK
 date: "2012-04-06"
 description: I den här artikeln har vi samlat flera tips på hur du förbereder dig inför provet samt strategier du kan använda medan du skriver provet. Vi hoppas att du med dessa i din verktygslåda kan skriva ett så bra resultat som möjligt på Högskoleprovet!
+long_description: |
+  Högskoleprovets delprov MEK utmanar dig att sätta in rätt ord i en mening. I den här artikeln har vi samlat:
+  - Flera tips på hur du förbereder dig inför provet
+  - Strategier du kan använda under provet
+  - Exempeluppgifter med lösningsförslag
+  - Digitala övningar med rättning som du kan använda för att maximera ditt resultat.
+
+  Bli bäst på delprov MEK med HPSkolan! 🏆
+featured_image: /images/mek.png
 url: "/mek"
 ---
 
@@ -45,7 +54,7 @@ Ofta finns det ett eller flera svarsalternativ som kan uteslutas relativt fort. 
 
 **Fråga:**
 
-Spåtrumman var ett heligt instrument i den ____ samiska religionen. Endast nåjden kunde använda ceremonitrumman för att med hjälp av trumljudet ____ och i detta tillstånd företa resor till andra världar eller andra trakter i vår värld.
+Spåtrumman var ett heligt instrument i den \_**\_ samiska religionen. Endast nåjden kunde använda ceremonitrumman för att med hjälp av trumljudet \_\_** och i detta tillstånd företa resor till andra världar eller andra trakter i vår värld.
 
 **Svarsalternativ**:
 

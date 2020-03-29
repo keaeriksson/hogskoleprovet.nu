@@ -2,9 +2,16 @@
 title: Högskoleprovet KVA
 date: "2012-04-06"
 description: Högskoleprovets KVA-del brukar ses som en av de klurigaste delarna på Högskoleprovet. Därför har vi ägnat denna sida åt att introducera dig i KVA delen och hur man tacklar sådana uppgifter.
+long_description: |
+  Delprov KVA på högskoleprovet brukar ses som en av de klurgiaste delarna. Här har vi därför samlat:
+  - En introduktion till delprov KVA
+  - Förberedelser inför provet för att maximera ditt resultat
+  - Exempeluppgifter med lösningsförslag
+
+  Lär dig allt om KVA med oss!
+featured_image: /images/kva.png
 url: "/kva"
 ---
-
 
 ## Introduktion KVA
 
@@ -56,7 +63,7 @@ x är större än y.
 x är mindre än y.
 
 **x ⋝ y x**\
-är större eller lika med y. 
+är större eller lika med y.
 
 **x ⋜ y x**\
 är mindre eller lika med y.
@@ -67,21 +74,21 @@ För att göra det smidigare att skriva stora eller mindre mått använder man p
 
 De prefix som förekommer på Högskoleprovet är:
 
-| Namn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | Symbol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | Short scale&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     | Longscale         |
-|------------|-------------|-----------------|--------------------|
-| peta       | P           | 10^15           | 1000000000000000   |
-| tera       | T           | 10^12           | 1000000000000      |
-| giga       | G           | 10^9            | 1000000000         |
-| mega       | M           | 10^6            | 1000000            |
-| kilo       | k           | 10^3            | 1000               |
-| hecto      | h           | 10^2            | 100                |
-| deca       | da          | 10^1            | 10                 |
-| 100        | 1           | one             | –                  |
-| deci       | d           | 10^−1           | 0.1                |
-| centi      | c           | 10^−2           | 0.01               |
-| milli      | m           | 10^−3           | 0.001              |
-| micro      | μ           | 10^−6           | 0.000001           |
-| nano       | n           | 10^−9           | 0.000000001        |
+| Namn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Symbol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Short scale&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Longscale        |
+| ---------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------- | ---------------- |
+| peta                                           | P                                                | 10^15                                                 | 1000000000000000 |
+| tera                                           | T                                                | 10^12                                                 | 1000000000000    |
+| giga                                           | G                                                | 10^9                                                  | 1000000000       |
+| mega                                           | M                                                | 10^6                                                  | 1000000          |
+| kilo                                           | k                                                | 10^3                                                  | 1000             |
+| hecto                                          | h                                                | 10^2                                                  | 100              |
+| deca                                           | da                                               | 10^1                                                  | 10               |
+| 100                                            | 1                                                | one                                                   | –                |
+| deci                                           | d                                                | 10^−1                                                 | 0.1              |
+| centi                                          | c                                                | 10^−2                                                 | 0.01             |
+| milli                                          | m                                                | 10^−3                                                 | 0.001            |
+| micro                                          | μ                                                | 10^−6                                                 | 0.000001         |
+| nano                                           | n                                                | 10^−9                                                 | 0.000000001      |
 
 **Specialfall**
 
@@ -89,15 +96,14 @@ l eller L (liter). Volymen 1 L motsvarar 0,001 m³.<!--  -->
 t (ton). Vikten 1 t motsvarar 1000 kg.
 min (minuter), h (timmar), d (dygn), veckor, månader och år. Standardenheten för tid är s (sekunder).
 
-
 ### Strategier
 
 #### Högskoleprovet HT 2017
 
 **Uppgift 13**
 
-Kvantitet I: 4 * 6 – 5 * 3
-Kvantitet II: 4 * (6 – 5) * 3
+Kvantitet I: 4 _ 6 – 5 _ 3
+Kvantitet II: 4 _ (6 – 5) _ 3
 
 - **1.** I är större än II
 - **2.** II är större än I
@@ -108,8 +114,8 @@ Kvantitet II: 4 * (6 – 5) * 3
 
 För att lösa denna uppgift behöver vi känna till prioriteringsreglerna. Prioriteringsreglerna säger att paranteser ska beräknas först, sedan multiplikation och sist addition och subtraktion. Med hjälp av den informationen kan vi räkna ut de båda kvantiteterna så här:
 
-Kvantitet I: 4 * 6 – 5 * 3 = 24 – 15 = 9
-Kvantitet II: 4 * (6 – 5) * 3 = 4  * 1 * 3 = 12
+Kvantitet I: 4 _ 6 – 5 _ 3 = 24 – 15 = 9
+Kvantitet II: 4 _ (6 – 5) _ 3 = 4 _ 1 _ 3 = 12
 
 Alltså är II större än I.
 
@@ -148,15 +154,15 @@ Kvantitet II: 30 π cm^3
 
 För att räkna ut volymen av en cylinder multipliceras arean av cylinderns bottencirkel med höjden på cylindern:
 
-VolymCylinder=AreaCirkel * h
+VolymCylinder=AreaCirkel \* h
 
 Arean av en cirkel beräknas:
 
-AreaCirkel = r^2 * π
+AreaCirkel = r^2 \* π
 
 Med hjälp av detta kan vi räkna ut volymen i I:
 
-VolymCylinder = 3^2 * π * 3 = 27 * π = 27 π cm^3
+VolymCylinder = 3^2 _ π _ 3 = 27 \* π = 27 π cm^3
 
 Cylinderns volym är alltså mindre än 30 π cm^3
 

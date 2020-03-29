@@ -2,13 +2,22 @@
 title: Högskoleprovet NOG
 date: "2012-04-06"
 description: I den här artikeln om Högskoleprovets NOG-del har vi samlat flera bra förberedelser och strategier som du kan använda för att förbättra ditt resultat på NOG-delen!
+long_description: |
+  Här kan du hitta all information om högskoleprovets NOG-del. Du hittar bland annat:
+  - Introduktion till delprovet
+  - Exempeluppgifter från gamla högskoleprov
+  - Genomgång av teorin du behöver inför NOG-delen
+
+  Lös NOG-mysteriet med HPSkolan! 🕵️‍♀️
+featured_image: /images/nog.png
 url: "/nog"
 ---
+
 {{% mathjax %}}
+
 ## Introduktion NOG
 
 NOG är ett av de kvantitativa delproven och testar ditt logiska tänkande. Uppgifterna är utformade så att du får ett problem följt av två påståenden. Din uppgift är att ta reda på om de individuella påståendena är nog för att lösa problemet eller om man behöver kombinera påståendena.
-
 
 ### Exempeluppgifter från gamla högskoleprov
 
@@ -29,7 +38,6 @@ Tre alarm ringer med olika tidsintervall. Ett av dem ringer var tredje timme. Kl
 ### Förberedelser
 
 På delprov NOG gäller det generellt att ha bra baskunskaper i matematik motsvarande kurs 1b på gymnasiet. Nedan har vi sammanfattat några av områdena som kan vara bra att fokusera på inför Högskoleprovet.
-
 
 #### Träna på gamla NOG-uppgifter
 
@@ -79,9 +87,9 @@ En annan viktig del är reglerna för vinklar, t.ex.
 
 ### Linjära funktioner
 
-En rät linje kan uttryckas som en matematisk funktion på formen  där  är linjens lutning och  är y-värdet där linjen korsar y-axeln.
+En rät linje kan uttryckas som en matematisk funktion på formen där är linjens lutning och är y-värdet där linjen korsar y-axeln.
 
-Om vi har två räta linjer  och  så skär de varandra där . I en NOG uppgift kan du till exempel behöva ta reda på om informationen du fått i uppgiften räcker för att ta reda på linjens lutning (k-värdet) eller var linjen skär y-axeln (m-värdet).
+Om vi har två räta linjer och så skär de varandra där . I en NOG uppgift kan du till exempel behöva ta reda på om informationen du fått i uppgiften räcker för att ta reda på linjens lutning (k-värdet) eller var linjen skär y-axeln (m-värdet).
 
 ### Medelvärde och median
 
