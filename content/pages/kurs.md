@@ -2,9 +2,15 @@
 title: Högskoleprovet kurs
 date: "2012-04-06"
 description: Ibland kan det behövas en dedikerad kurs för att du lättare ska komma igång med studierna inför Högskoleprovet. I den här artikeln går vi igenom olika typer av kurser samt berättar om vår egna övningsportal HPSkolan. Häng på!
+long_description: |
+  Ibland kan det behövas en fokuserad kurs för att du lättare ska komma igång med studierna inför högskoleprovet. På den här sidan går vi igenom:
+  - Olika typer av kurser
+  - Hur du väljer rätt kurs
+  - Möjligheter att förbättra ditt resultat på högskoleprovet på distans
+
+featured_image: /images/kurs.png
 url: "/hogskoleprovet-kurs"
 ---
-
 
 ## Kurser för högskoleprovet
 
@@ -23,7 +29,6 @@ Genom att använda läget Snabbövning kan du sätta ihop ett eget prov med kate
 Om du har längre tid på dig att träna har vi samlat ett antal gamla högskoleprov i läget Provsimulator. Där du kan köra igenom ett helt gammalt prov med tidtagning och normering. Vi rekommenderar att du då och då gör ett helt prov för att testa hur du ligger till. Du övar också in en vana inför den riktiga provdagen så att du inte blir stressad när det är dags. Se till att noga gå igenom ditt resultat på varje gammalt prov du gör. Kan du hitta vilken typ av frågor du får fel på och träna på dem har du mycket högre chans att få ett bra resultat.
 
 Här nedan har vi samlat några exempelprov du kan göra helt gratis för att testa dina kunskaper. Varje test innehåller 10 uppgifter som du kan se utförliga förklaringar för när du är klar. Klicka på länken för att starta testet.
-
 
 [ORD VT 2018](https://hpskolan.högskoleprovet.nu/public/test/62)\
 [ORD HT 2016](https://hpskolan.högskoleprovet.nu/public/test/62)\
