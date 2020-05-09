@@ -1,42 +1,74 @@
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-    <!-- SEO Meta Tags -->
-    <meta name="description" content="{{.Description}}">
-    <meta name="author" content="HPSkolan">
+  <meta charset="utf-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
 
-    <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
-	<meta property="og:site_name" content="HPSkolan - Högskoleprovet.nu" /> <!-- website name -->
-	<meta property="og:site" content="{{ .Site.BaseURL }}" /> <!-- website link -->
-	<meta property="og:title" content="{{.Title}}"/> <!-- title shown in the actual shared post -->
-	<meta property="og:description" content="{{.Description}}" /> <!-- description shown in the actual shared post -->
-    <meta property="og:type" content="article" />
-    <meta property="og:image" content="{{ .Site.BaseURL }}images/featured_default.png" />
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="{{.Description}}" />
+  <meta name="author" content="HPSkolan" />
 
-    <!-- Website Title -->
-    <title>{{.Title}}</title>
-    
-    <!-- Styles -->
-    
-    <link href="{{ .Site.BaseURL }}css/bootstrap.css" rel="stylesheet">
-    <link href="{{ .Site.BaseURL }}css/fontawesome-all.css" rel="stylesheet">
-    <link href="{{ .Site.BaseURL }}css/swiper.css" rel="stylesheet">
-	<link href="{{ .Site.BaseURL }}css/magnific-popup.css" rel="stylesheet">
-    <link href="{{ .Site.BaseURL }}css/styles.css" rel="stylesheet">
-    
-    <!-- Tag manager-->
-    
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-WTCK4TD');</script>
-        <!-- End Google Tag Manager -->
+  <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
+  <meta property="og:site_name" content="HPSkolan - Högskoleprovet.nu" />
+  <!-- website name -->
+  <meta property="og:site" content="{{ .Site.BaseURL }}" />
+  <!-- website link -->
+  <meta property="og:title" content="{{.Title}}" />
+  <!-- title shown in the actual shared post -->
+  <meta property="og:description" content="{{.Description}}" />
+  <!-- description shown in the actual shared post -->
+  <meta property="og:type" content="article" />
+  <meta
+    property="og:image"
+    content="{{ .Site.BaseURL }}images/featured_default.png"
+  />
 
-    
-	<!-- Favicon  -->
-    <link rel="icon" href="{{ .Site.BaseURL }}images/favicon.png">
-    {{- partial "schema.html" . -}}
+  <!-- Website Title -->
+  <title>{{.Title}}</title>
+
+  <!-- Styles -->
+
+  <link href="{{ .Site.BaseURL }}css/bootstrap.css" rel="stylesheet" />
+  <link href="{{ .Site.BaseURL }}css/fontawesome-all.css" rel="stylesheet" />
+  <link href="{{ .Site.BaseURL }}css/swiper.css" rel="stylesheet" />
+  <link href="{{ .Site.BaseURL }}css/magnific-popup.css" rel="stylesheet" />
+  <link href="{{ .Site.BaseURL }}css/styles.css" rel="stylesheet" />
+
+  <!-- Tag manager-->
+
+  <!-- Google Tag Manager -->
+  <script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != "dataLayer" ? "&l=" + l : "";
+      j.async = true;
+      j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "dataLayer", "GTM-WTCK4TD");
+  </script>
+  <!-- End Google Tag Manager -->
+
+  <!-- Hotjar Tracking Code for www.xn--hgskoleprovet-imb.nu -->
+  <script>
+    (function(h, o, t, j, a, r) {
+      h.hj =
+        h.hj ||
+        function() {
+          (h.hj.q = h.hj.q || []).push(arguments);
+        };
+      h._hjSettings = { hjid: 1747330, hjsv: 6 };
+      a = o.getElementsByTagName("head")[0];
+      r = o.createElement("script");
+      r.async = 1;
+      r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+      a.appendChild(r);
+    })(window, document, "https://static.hotjar.com/c/hotjar-", ".js?sv=");
+  </script>
+
+  <!-- Favicon  -->
+  <link rel="icon" href="{{ .Site.BaseURL }}images/favicon.png" />
 </head>
