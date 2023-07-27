@@ -8,7 +8,7 @@ url: "/fusk"
 
 ### Konsekvenser av att fuska på högskoleprovet
 
-Att fuska på högskoleprovet har varit ett återkommande problem är tyvärr ingen nyhet. Historien har visat att vissa individer betalat stora belopp för att manipulera sina resultat, och på så vis orättmätigt ta platser som andra har arbetat hårt för att förtjäna. Detta kan ses som att de berövar andra deras rättmätiga chanser och drömmar. För den som överväger att fuska kanske inte tanken på andras besvikelse är det avskräckande. Istället belyser vi här vilka direkta konsekvenser du riskerar om du blir påkommen.
+Att fusk på högskoleprovet har varit ett återkommande problem är tyvärr ingen nyhet. Historien har visat att vissa individer betalat stora belopp för att manipulera sina resultat, och på så vis orättmätigt ta platser som andra har arbetat hårt för att förtjäna. Detta kan ses som att de berövar andra deras rättmätiga chanser och drömmar. För den som överväger att fuska kanske inte tanken på andras besvikelse är det avskräckande. Istället belyser vi här vilka direkta konsekvenser du riskerar om du blir påkommen.
 
 ### Fuskhjälparen som potentiellt hot
 
