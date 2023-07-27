@@ -41,8 +41,8 @@ Här på sidan finner du facit för de senaste årens högskoleprov. Dessa facit
 
 ### Facit högskoleprovet 2017
 
-[Facit våren 2017](https://s3-eu-west-1.amazonaws.com/course-platform-media-prod/2017/facit/vt2017.pdf)
-[Facit våren 2017](https://s3-eu-west-1.amazonaws.com/course-platform-media-prod/2017/facit/vt2017.pdf)
+[Facit våren 2017](https://s3-eu-west-1.amazonaws.com/course-platform-media-prod/2017/facit/vt2017.pdf)\
+[Facit hösten 2017](https://www.studera.nu/globalassets/hogskoleprovet/hp-2017-10-21/facit-version-1.pdf)
 
 ### Facit högskoleprovet 2016
 
