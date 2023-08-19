@@ -1,13 +1,13 @@
 ---
-title: Gamla Högskoleprov
+title: Tidigare Högskoleprov
 date: "2012-04-06"
-description: Att öva med hjälp av gamla högskoleprov är bland det bästa du kan göra! Högskoleprovets uppgifter är aldrig samma, men liknar varandra från år till år. Därför har du extra nytta av att studera uppgifter från tidigare prov. På den här sidan kan du ladda ner och läsa om hur du bör öva med gamla prov.
+description: Ett av de mest effektiva sätten att förbereda sig inför Högskoleprovet är att träna med tidigare provversioner. Även om uppgifterna i Högskoleprovet varierar från år till år, finns det tydliga likheter mellan dem. Genom att öva på äldre uppgifter får du därför en god uppfattning om vad som kan komma att vänta. På denna sida erbjuder vi möjligheten att ladda ner tidigare prov samt ger rekommendationer om hur du bäst tränar med dem.
 url: "/gamla-hogskoleprov"
 ---
 
-## Såhär bör du utnyttja tidigare prov
+## Så utnyttjar du tidigare prov effektivt
 
-Visste du att över 60% av dem som tränar på gamla högskoleprov gör det på fel sätt? I den här artikeln lär vi dig exakt hur du ska utnyttja tidigare prov för att höja ditt resultat avsevärt. Vi låter dig också ladda ner proven helt gratis, eller så kan du testa vår interaktiva testsimulator med rättning, normering, facit, tidtagning och förklaringar. Detta vill du inte missa!
+I denna artikel guidar vi dig steg för steg genom hur du kan använda tidigare prov för att märkbart förbättra dina resultat. Här erbjuder vi även möjligheten att ladda ner tidigare prov. Vill du ta ditt förberedande arbete till nästa nivå? Prova HP-appens interaktiva övningsprov, komplett med automatisk rättning, normering, facit, tidtagning och utförliga förklaringar. Skapa ett gratis konto och kom igång redan idag!
 
 [Läs mer om testen](/test)\
 [Läs mer om hur du kan öva på gamla prov](/gamla-hogskoleprov#steg-1)
@@ -116,50 +116,46 @@ Visste du att över 60% av dem som tränar på gamla högskoleprov gör det på 
 </table>
 
 
-### Steg 1
-#### Varför är gamla högskoleprov så bra?
 
-När man övar inför någonting speciellt så som en idrottstävling, ett prov, en tenta eller kanske ett körkortstest vill man alltid förbereda sig så mycket man kan. 
+#### Varför är gamla högskoleprov värdefulla?
 
-För att göra det försöker man sätta sig i en situation som liknar den riktiga. Det gör att hjärnan kan vänja sig vid situationen och när man sen sitter där på riktigt vet man vad som gäller och är inte lika nervös. 
+När vi förbereder oss inför särskilda händelser, vare sig det är en idrottstävling, en tentamen eller ett körkortstest, strävar vi efter att vara så väl förberedda som möjligt.
 
-För högskoleprovet gäller precis samma sak och eftersom gamla högskoleprov publiceras online har vi möjligheten att skapa många bra övningstillfällen innan det riktiga provet.
+Det mest effektiva sättet att göra detta på är att öva under förhållanden som så nära som möjligt efterliknar den verkliga situationen. Genom detta acklimatiserar sig hjärnan till de specifika krav och förväntningar som kommer med situationen. Resultatet? När det är dags för det verkliga provet eller testet känner du igen dig, är mer självsäker och mindre nervös.
 
-### Steg 2. Hur övar man på bästa sätt?
+Detta resonemang gäller i hög grad för högskoleprovet. Tack vare tillgängligheten av tidigare högskoleprov online, har vi chansen att simulera riktiga provsituationer och skapa otaliga effektiva övningstillfällen inför den stora dagen.
 
-Den klassiska strategin är att man skriver ut några gamla högskoleprov och sen övar man sporadiskt på frågorna. Vi kommer nu förklara varför du inte ska göra så och hur du bör göra istället. 
+### Steg 1. Optimal förberedelse med gamla högskoleprov
 
-De gamla proven har dom bästa övningsfrågorna du kan få tag på. Därför gäller det att utnyttja dem väl. Innan du börjar skriva ut prov eller göra dem online bör du bestämma dig för ett antal prov du sparar som ”testprov”. Det är prov du ska använda för att se hur du ligger till i din övning. Vi brukar rekommendera att man gör ett av sina ”testprov” var tredje vecka under sin förberedelseperiod. 
+Många nöjer sig med att skriva ut gamla högskoleprov och sporadiskt öva på frågorna. Men det finns effektivare metoder, och vi ska guida dig genom dem.
 
-När du gör ett testprov ska du se till att du har mycket tid. Sedan använder du ett tidtagarur och använder det för att ge dig själv 55 minuter per delprov. Anteckna dina svar och efter alla fyra delprov kan du sedan rätta provet för att få fram din normeringspoäng. 
+Gamla högskoleprov erbjuder de bästa övningsfrågorna tillgängliga. Det gäller att dra full nytta av dem. Vi föreslår att du genomför ett "övningsprov" var tredje vecka under din förberedelseperiod.
 
-När du är klar med provet börjar egentligen det viktigaste steget. Analysen! Först och främst är det intressant att se om du förbättrade dig från förra gången.  Om du lyckats med det har din övning gett resultat. Om inte är det bara fortsätta kämpa och träna ännu mer! Mer om hur du analyserar ditt provresultat i nästa steg.
+När du tar ett övningsprov, se till att avsätta ordentligt med tid, kanske hela dagen. Använd en timer för att begränsa dig till 55 minuter per provpass. Notera dina svar. Efter att ha slutfört alla provpass, rätta och notera ditt resultat.
 
-### Steg 3. Hur analyserar man sitt resultat?
+Därefter följer det mest kritiska steget: analys. Bedöm dina framsteg jämfört med föregående prov. Om du ser förbättring – bra! Fortsätt i samma bana. Om inte, reflektera över var du kan intensifiera dina insatser. Vi går djupare in på analys i nästa steg.
 
-Det kan vara svårt att veta vad man ska kolla efter när man analyserar provet man gjort. Vi förklarar snabbt hur du bör gå tillväga. Det intressanta är egentligen två saker.
+### Steg 2. Analys av ditt resultat
 
-Vilka frågor du svarade fel på och hur lär du dig dem?
-Vilken typ av delprov du har svårast för och hur du träna på den.
- 
-Om vi börjar med steg 1 så är det rätt straight forward vad som gäller. Du måste lära dig hur du räknar ut de uppgifterna du hade fel på. Uppgifter i de kvantitativa delarna (mek, läs, elf och ord) är ganska lätta att förstå om man lugnt läser frågan igen eller söker upp innebörden av vissa ord online. 
-Frågor i den kvantitativa delen (xyz, dtk, nog och kva) kan vara svårare att förstå. Här gäller det att känna någon som kan förklara bra lösningsstrategier för en. Genom att läsa en bra förklaring som förklarar hur du ska ta dig an uppgiften steg för steg  förstår du snabbt hur du ska göra.
+Det kan kännas överväldigande att dissekera ditt provresultat, men fokusera på två centrala aspekter:
 
-I vår övningsportal HPSkolan har vi tydliga förklaringar till de 10 senaste högskoleproven. Lösningarna är perfekta för den som vill lära sig hur man löser uppgifter rätt och snabbt.
+1. Vilka frågor svarade du fel på, och hur kan du lära dig av dem? För de kvantitativa delarna (mek, läs, elf, ord) handlar det oftast om att noga läsa frågan igen eller förstå ordens innebörd. För mer komplexa delar kan det krävas mer genomtänkta strategier.
 
-Det är viktigt att lägga tid på att gå igenom de uppgifterna man svarade fel på. Det är den absolut bästa träningen för att förbättra sitt resultat på det riktiga högskoleprovet.
+Vår studieplattform, HP-appen, erbjuder detaljerade förklaringar till frågor från alla prov sen 2011. Dessa guider är ovärderliga för den som vill förstå uppgifterna fullt ut.
 
-Steg 2 i analysen handlar om att förstå vilken typ av frågor man har svårast för. Detta räknar du ut genom att räkna ut hur många rätt du hade per kategori och hur många frågor det fanns totalt i den kategorin. Sedan kan du jämföra kategorierna mellan varandra och se vart du bör lägga mest tid på att träna. Detta steg görs automatiskt när du använder HPSkolans provsimulator vilket sparar dig mycket tid.
+2. Identifiera vilka typer av frågor som utmanar dig mest. Jämför andelen rätt svar per kategori. Detta hjälper dig att avgöra var du bör fokusera din träning mest. HP-appen utför denna analysen automatiskt, vilket sparar dig tid.
+
+Kort sagt, en noggrann genomgång av dina misstag är nyckeln till att förbättra ditt resultat på det verkliga högskoleprovet.
 
 ![Resultatsida från HPSkolan](/images/resultat.png)
 
-*Det här är en del av resultatsidan när du gör övningar i HPSkolans övningsportal. Du kan tydligt se vilka typer av frågor du behöver öva mer på* 
+*HP-appens studieportal visar dig hur du ligger till på varje del. På sätt kan du mer effektivt inrikta dig på de saker du behöver öva mer på* 
 
-### Steg 4. Börja träna på gamla högskoleprov!
+### Steg 3. Träning med gamla högskoleprov
 
-Nu när du vet hur du ska gå tillväga för att träna på gamla högskoleprov går vi igenom hur du kommer igång. Du kan antingen ladda ner proven och göra dem hemma själv. Eller så kan du testa vår övningsportal HPSkolan. Där får du tillgång till massor med material och verktyg som hjälper dig inför högskoleprovet.
+Nu när du är utrustad med kunskapen om hur du effektivt tränar med tidigare högskoleprov, låt oss sätta igång! Du har två alternativ: antingen laddar du ner proven och genomför dem självständigt, eller så utforskar du vår studieplattform, HP-appen, som ger dig en fördjupad träningsupplevelse.
 
-I HPSkolan ingår bland annat ett provläge där du kan göra de 10 senaste högskoleprovet med rättning, normering, tidtagning, facit och steg för steg förklaringar på matteuppgifterna. Du kan också få hjälp av en personlig coach.
+HP-appen erbjuder övningsprov med realtidskorrigering, normering, tidtagning och utförliga förklaringar, steg för steg. Utnyttja dessa resurser fullt ut för att maximalt förbättra dina chanser inför högskoleprovet!
 
 {{%read-more%}}
 
