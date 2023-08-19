@@ -4,51 +4,46 @@ date: "2012-04-06"
 description: I den här artikeln har vi samlat flera tips på hur du förbereder dig inför provet samt strategier du kan använda medan du skriver provet. Vi hoppas att du med dessa i din verktygslåda kan skriva ett så bra resultat som möjligt på Högskoleprovet!
 long_description: |
   Högskoleprovets delprov MEK utmanar dig att sätta in rätt ord i en mening. I den här artikeln har vi samlat:
-  - Flera tips på hur du förbereder dig inför provet
+  - Tips på hur du förbereder dig inför provet
   - Strategier du kan använda under provet
   - Exempeluppgifter med lösningsförslag
-  - Digitala övningar med rättning som du kan använda för att maximera ditt resultat.
 
-  Bli bäst på delprov MEK med HPSkolan! 🏆
+  Läs vidare för att bli grym på delprovet MEK! 🏆
 featured_image: /images/mek.png
 url: "/mek"
 ---
 
 ## Introduktion MEK
 
-Delprov MEK – meningskomplettering – handlar om att kunna sätta in rätt ord i ett sammanhang. Frågorna är utformade som en text med en eller flera luckor där svarsalternativen ska passa in. Detta delprov har 20 uppgifter som du ska lösa på 16 minuter.
+Delprovet MEK – Meningskomplettering – testar din förmåga att välja rätt ord i olika sammanhang. Frågorna består av texter med en eller flera luckor, och ditt jobb är att välja svarsalternativ som passar in. Delprovet består av 20 uppgifter som du rekommenderas spendera 16 minuter på.
 
-### Förberedelser
+### Träna på tidigare MEK-uppgifter
 
-Dessa förberedelser kan du använda för att i god tid innan provet träna upp din förmåga att lösa MEK-uppgifter. Om du vill ha fler tips är du välkommen att höra av dig till oss så hjälper vi dig till ett bättre provresultat!
+Att träna med gamla uppgifter är ett utmärkt sätt att förbereda sig för delprovet MEK. Genom att följa samma upplägg som det faktiska provet får du chansen att utveckla en vana som kommer att hjälpa dig att lösa uppgifterna på provet.
 
-### Träna på gamla MEK-uppgifter
+I studieplattformen HP-appen finns hundratals tidigare MEK-uppgifter från högskoleprov. Där kan du träna i övnings- och provlägen med facit och automatisk rättning.
 
-Ett av de bästa sätten att förbereda sig inför delprov MEK är att göra gamla uppgifter. Att träna enligt exakt samma upplägg som kommer på det riktiga provet gör att du bygger upp en vana och kan fokusera till 100% på att hitta rätt ord.
-
-I vår övningsportal HPSkolan har vi samlat hundratals gamla MEK-uppgifter från tidigare högskoleprov som du enkelt tränar på i våra övningslägen med facit och automatisk rättning.
-
-Utöver MEK-uppgifterna finns det även tusentals andra uppgifter där samtliga matematikuppgifter har utförliga förklaringar och uträkningar. Övningsportalen har hjälpt tusentals provskrivare nå ett högre resultat.
+Utöver MEK-uppgifterna finns tusentals andra uppgifter, inklusive matematikproblem med utförliga förklaringar och beräkningar. Många provtagare har redan utnyttjat denna resurs för att förbättra sina resultat.
 
 {{%read-more%}}
 
 ### Allmänt
 
-För att förbereda sig inför MEK är det precis som för de andra verbala delproven viktigt att läsa mycket och bygga upp sitt ordförråd. Detta gör du bäst genom att läsa texter inom varierande ämnen och i varierande format som t.ex. tidningsartiklar, forskningsartiklar och skönlitteratur. För att förbättra ordförrådet är det bra att skriva ned ord du inte förstår medan du läser och träna in dem i efterhand. Om du har läst mycket kan man ofta lösa en uppgift genom att välja det svarsalternativ som låter bäst utan att ha full förståelse för vad ordet innebär.
+Precis som för andra verbala delprov är det viktigt att läsa mycket och stärka ditt ordförråd för att förbereda dig för MEK. Du gör detta effektivast genom att läsa varierande texter som tidningsartiklar, forskningsrapporter och skönlitteratur. Att skriva ner och sedan studera ord du inte förstår hjälper dig också att bygga upp ditt ordförråd.
 
 ### Strategier
 
 #### Läs noga
 
-Det viktigaste för att få ett bra resultat på MEK är att läsa igenom meningen som svarsalternativen ska sättas in i noga. Ofta kan man få en känsla för vilket ord som passar in bara genom att läsa igenom meningen en gång. När du sedan tittar på svarsalternativen hittar du förhoppningsvis ordet du tänkte på när du läste igenom meningen för första gången.
+Nyckeln till ett framgångsrikt MEK-resultat ligger i att noggrant läsa igenom meningen som svarsalternativen ska placeras i. Ofta kan du få en känsla för rätt ord bara genom att noggrant läsa meningen en gång.
 
-#### Ordförståelse eller läsförståelse
+#### Förstå Ordet eller Meningen
 
-Vissa uppgifter på delprov MEK kräver att du vet exakt vad ordet betyder för att kunna lösa uppgiften. Här hänger det bara på att du antingen känner till ordet eller kan utesluta alla felaktiga alternativ snabbt. Det finns dock frågor där det räcker att du förstår innebörden av meningen utan att nödvändigtvis ha förståelse för de individuella orden. Här har du en chans att välja det ordet som passar in bäst i meningen genom att titta på meningens innebörd i sin helhet.
+Vissa MEK-uppgifter kräver exakt förståelse av ordet, medan andra bara behöver en förståelse för hela meningen. Ibland kan du välja det bästa alternativet baserat på meningsinnehållet utan att nödvändigtvis känna till varje enskilt ord.
 
 #### Uteslut svarsalternativ
 
-Ofta finns det ett eller flera svarsalternativ som kan uteslutas relativt fort. Se till att kryssa över de svarsalternativ som du känner inte alls passar in i meningen och testa att sätta in de svarsalternativ som är kvar i meningen för att hitta det som passar bäst.
+Flera svarsalternativ kan ofta uteslutas snabbt. Kryssa över de som inte passar och testa kvarvarande alternativ i meningen för att hitta det bästa.
 
 ### Exempeluppgift
 
@@ -65,13 +60,14 @@ Spåtrumman var ett heligt instrument i den \_**\_ samiska religionen. Endast n�
 
 **Lösning:**
 
-I denna fråga har vi ett främmande ord – nåjden – som man inte ska haka upp sig på. Det går att förstå meningens innebörd utan att veta exakt vad nåjden betyder. Nu undersöker vi om det går att utesluta några svarsalternativ.
+I denna fråga har vi ett ovanligt ord, "nåjden", som vi inte behöver haka upp oss på. Det går att förstå meningens innebörd utan att veta exakt vad nåjden betyder. Nu undersöker vi om det går att utesluta några svarsalternativ.
 
-Det första ordet i alternativ ett är samtida vilket betyder nuvarande. Meningen pratar om den samiska religionen i dåtid (spåtrumman var ett heligt instrument) vilket gör att vi kan utesluta det alternativet.
+- Alternativ 1: Eftersom "samtida" betyder nuvarande och frågan refererar till samiska religionen i historisk kontext, passar inte detta alternativ och kan uteslutas.
+- Alternativ 2: Att använda ordet "profana" i denna kontext skulle motsäga att samisk religion är en religion som texten beskriver. Därför kan vi utesluta detta alternativ också.
+- Alternativ 4: "Offentliga" saknar relevans i detta sammanhang och stämmer inte överens med den historiska beskrivningen av den samiska religionen. Vi kan utesluta detta alternativ.
 
-Om vi tittar på det första ordet i alternativ två – profana – skulle det betyda att UHR som skapar provet kallar samisk religion för profan (hädisk eller vanvördig) vilket vi kan utesluta direkt. Högskoleprovet innehåller inga påståenden som kan uppfattas som politiskt inkorrekta.
+Det enda återstående alternativet är alternativ 3: "förkristna" betyder före kristendomen, vilket är relevant för den samiska religionen. Det andra ordet i alternativet, "extas", beskriver ett tillstånd där man kan företa resor till andra världar eller trakter i vår värld, vilket passar bra med beskrivningen i frågan. Därför är rätt svar alternativ 3, "förkristna – komma i extas."
 
-I alternativ tre har vi förkristna vilket betyder före kristendomen vilket stämmer med meningens tempus (spåtrumman var). Det andra ordet i alternativ tre – extas – verkar stämma in på ett tillstånd där man kan “företa resor till andra världar eller trakter i vår värld”. Här har vi hittat rätt svarsalternativ.
 
 **Rätt svar:** Alternativ 3
 
