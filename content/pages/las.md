@@ -25,9 +25,9 @@ Det absolut viktigaste för att göra bra ifrån sig på LÄS är att läsa myck
 
 Det absolut bästa sättet för att förbereda sig inför delprov LÄS är att göra uppgifter från gamla prov. Texterna i uppgifterna är oftast av likartad stil och genom att träna på att läsa den typen av texter blir du snabbt expert på att hitta det viktiga i texten.
 
-I vår övningsportal HPSkolan har vi samlat hundratals gamla LÄS-uppgifter från tidigare högskoleprov som du enkelt tränar på i våra övningslägen med facit och automatisk rättning.
+I studieplattformen HP-appen finns hundratals tidigare LÄS-uppgifter från högskoleprov. Där kan du träna i övnings- och provlägen med facit och automatisk rättning.
 
-Utöver LÄS-uppgifterna finns det även tusentals andra uppgifter där samtliga matematikuppgifter har utförliga förklaringar och uträkningar. Övningsportalen har hjälpt tusentals provskrivare nå ett högre resultat.
+Utöver LÄS-uppgifterna finns tusentals andra uppgifter, inklusive matematikproblem med utförliga förklaringar och beräkningar. Många provtagare har redan utnyttjat denna resurs för att förbättra sina resultat.
 
 {{%read-more%}}
 
