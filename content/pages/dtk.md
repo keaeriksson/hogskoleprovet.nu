@@ -23,9 +23,8 @@ Delprovet innehåller åtta olika figurer med tillhörande frågor som löses ge
 
 På Delprov DTK har du stora möjligheter att förbättra ditt resultat genom att träna på gamla uppgifter. Det hjälper ofta att bara ha sett de olika typerna av diagram, tabeller och kartor tidigare för att få ett försprång på provet och inte bli hindrad av att behöva sätta sig in i en ny typ av tabell under provets gång. En annan förmåga du tränar upp genom att göra gamla uppgifter är metodiken för att hitta rätt information. När du har tittat på figuren och förstått hur informationen hänger ihop har du en bättre chans att hitta rätt tillvägagångssätt för att hitta informationen som besvarar frågan.
 
-I vår övningsportal HPSkolan har vi samlat hundratals gamla DTK-uppgifter från tidigare högskoleprov som du enkelt tränar på i våra övningslägen med facit och automatisk rättning.
+I HP-appens studieplattform finns det tillgång till hundratals DTK-uppgifter från tidigare högskoleprov som du kan träna på med och automatisk rättning och normerad poäng. På så sätt kan du träna effektivt inför provet. 
 
-Utöver DTK-uppgifterna finns det även tusentals andra uppgifter där till exempel alla matteuppgifter har utförliga förklaringar och uträkningar. Övningsportalen har hjälpt tusentals provskrivare att nå ett högre resultat.
 
 {{%read-more%}}
 
@@ -43,7 +42,7 @@ Ett linjediagram är en diagramtyp som representerar data med hjälp av linjer. 
 
 Ett exempel är detta linjediagram som visar antalet hjärtinfarkter per 100 000 män och kvinnor i Sverige från år 1987 till år 2006:
 
-I rutan i övre högra hörnet kan vi se en förklaring för vad de olika linjerna representerar. Observera också att det är ett diagram för män och ett för kvinnor. För att läsa ut hur många hjärtinfarkter som skedde per 100 000 män i åldersgruppen 65-59 år 2006 måste du alltså först välja det övre diagrammet. Sedan tittar du i rutan i det övre högra hörnet för att se vilken linje som representerar vilken åldersgrupp vilket i detta fall är den heldragna. Nu kan vi läsa ut året – 2006 – och få fram att det skedde strax över 1000 hjärtinfarkter per 100 000 män år 2006.
+I rutan i övre högra hörnet kan vi se en förklaring för vad de olika linjerna representerar. Observera också att det är ett diagram för män och ett för kvinnor. För att läsa ut hur många hjärtinfarkter som skedde per 100 000 män i åldersgruppen 65-69 år 2006 måste du alltså först välja det övre diagrammet. Sedan tittar du i rutan i det övre högra hörnet för att se vilken linje som representerar vilken åldersgrupp vilket i detta fall är den heldragna. Nu kan vi läsa ut året – 2006 – och få fram att det skedde strax över 1000 hjärtinfarkter per 100 000 män år 2006.
 
 ![DTK Diagram](/images/provpass3-dtk-41.jpg)
 
@@ -91,7 +90,7 @@ I detta fall uttrycks skalan med hjälp av stapeln i det nedre högra hörnet. H
 
 ### Lär dig överslagsräkning
 
-För att snabba upp dina beräkningar av olika summor, areor eller avstånd i figurerna är det viktigt att du lär dig överslagsräkning. Exempelvis är 31*29 ungefär lika med 30 * 30 och 2054/9899 är ungefär lika med 2000/10000. Kan du göra denna typen av överslagsräkning snabbt kan du direkt jämföra med svarsalternativen och välja det som ligger närmast
+För att snabba upp dina beräkningar av olika summor, areor eller avstånd i figurerna är det viktigt att du lär dig överslagsräkning. Exempelvis är 31*29 ungefär lika med 30 * 30 och 2054/9899 är ungefär lika med 2000/10000. Om du kan göra den här typen av överslagsräkning snabbt, kan du direkt jämföra med svarsalternativen och välja det som ligger närmast.
 
 ### Studera figurerna
 
