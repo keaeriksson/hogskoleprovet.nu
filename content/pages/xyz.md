@@ -1,7 +1,7 @@
 ---
 title: Högskoleprovet XYZ
 date: "2012-04-06"
-description: Vill du blir expert på Högskoleprovets XYZ del? I den här artikeln ger vi dig en introduktion till vad för typ av uppgifter som kommer på XYZ och hur du tacklar dem. Du får också tillgång till två mattetest i HPSkolans provsimulator.
+description: Vill du blir expert på Högskoleprovets XYZ-del? I den här artikeln ger vi dig en introduktion till vad för typ av uppgifter som kommer på XYZ och hur du tacklar dem. Du får också tillgång till två mattetest från HP-appen, helt gratis!.
 featured_image: /images/xyz.svg
 long_description: |
   Vill du blir expert på Högskoleprovets XYZ del? I den här artikeln ger vi dig:
@@ -9,7 +9,7 @@ long_description: |
   - Exempeluppgifter med lösningsförslag
   - Strategier och tips inför provet
 
-  Häng med och räkna med HPSkolan! 🔢
+  Häng med och räkna med HP-appen! 🔢
 
 url: "/xyz"
 ---
@@ -20,7 +20,7 @@ url: "/xyz"
 
 {{% email-signup-small%}}
 
-Delprov XYZ innehåller 12 matteuppgifter där du ska svara exakt. Till varje uppgift finns det fyra svarsalternativ varav endast ett är rätt. Delprovet inehåller uppgifter inom aritmetik, algebra, geometri, funktionslära och statistik.
+Delprov XYZ innehåller 12 matteuppgifter där du ska svara exakt. Till varje uppgift finns det fyra svarsalternativ varav endast ett är rätt. Delprovet innehåller uppgifter inom aritmetik, algebra, geometri, funktionslära och statistik.
 
 På denna sida har vi samlat tips på hur du förbereder dig inför delprov XYZ på bästa sätt samt exempeluppgifter från gamla högskoleprov. Vi på Högskoleprovet.nu hoppas med denna guide kunna hjälpa dig att maximera ditt resultat på delprov XYZ!
 
@@ -32,13 +32,13 @@ Här kan du läsa om hur du förbereder dig på bästa sätt inför delprov XYZ.
 
 Det bästa sättet att bli grym på XYZ-delen är att träna på uppgifter från gamla högskoleprov. Ofta är det inte de typiska uppgifterna du hittar i dina gamla matteböcker som dyker upp på provet utan de kan ha en ganska speciell utformning.
 
-I vår övningsportal HPSkolan har vi samlat hundratals gamla XYZ-uppgifter från tidigare högskoleprov som du enkelt tränar på i våra övningslägen med facit och automatisk rättning.
+I vår övningsportal HP-appen har vi samlat hundratals gamla XYZ-uppgifter från tidigare högskoleprov som du enkelt tränar på i våra övningslägen med facit och automatisk rättning.
 
 Utöver XYZ-uppgifterna finns det även tusentals andra uppgifter där samtliga matematikuppgifter har utförliga förklaringar och uträkningar. Övningsportalen har hjälpt tusentals provskrivare nå ett högre resultat.
 
 {{%read-more%}}
 
-Om du vill kan du prova HPSKolan genom att göra något av våra gratis mattetest i övningsportalen. Klicka på någon av testen nedan så kommer provsimulatorn startas med ditt test. Lycka till!
+Om du vill kan du prova HP-appen genom att klicka på någon av testen nedan. Lycka till!
 
 {{% matte-test%}}
 
