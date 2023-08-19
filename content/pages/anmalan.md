@@ -1,62 +1,51 @@
 ---
-title: Anmälan Högskoleprovet
+title: Anmälan till Högskoleprovet
 date: "2012-04-06"
-description: Här hittar du all information om hur du anmäler dig till Högskoleprovet 2020. Det är viktigt att ha koll på datumen då UHR är kända för att inte tillåta sena anmälningar.
+description: Här finns all nödvändig information för att anmäla dig till Högskoleprovet. Se till att vara redo när anmälningsdagen startar, så du kan garantera din plats om efterfrågan blir stor.
 url: "/anmalan"
 ---
 
 
-## Var anmäler jag mig till högskoleprovet 2020?
+## Var anmäler jag mig till högskoleprovet 2023?
 
-Anmälan till högskoleprovet sköts av Universitets- och högskolerådet (UHR). Att anmäla sig efter deadline är helt omöjligt och det är därför viktigt att du har koll på vilka datum det är som gäller. 
+Anmälan till Högskoleprovet administreras av Universitets- och högskolerådet (UHR). Det går inte att anmäla sig efter sista anmälningsdag, så se till att vara uppdaterad om relevanta datum. 
+Nästa provtillfälle är hösten 2023, och äger rum söndagen den 22 oktober.
 
-Nästa prov som skrivs är våren 2020. Det äger rum lördagen 4 april och anmälan är stängd. 
-
-Högskoleprovet hösten 2020 skrivs söndagen den 18 oktober och har en anmälningsperiod mellan 10 augusti och 27 augusti. Om du vill gå direkt till anmälan följer du länken nedan.
-
-Datumen för proven 2021 är ännu inte bestämda. 
+För anmälan, klicka på länken nedan.
+Datum för 2024 års prov har ännu inte fastställts. 
 
 [UHR:s webbplats för anmälan](https://www.hogskoleprov.nu/)
 
 ### Information om högskoleprovet
 
-Högskoleprovet skrivs två gånger om året. En gång på hösten och en gång på våren. Provdagen har alltid varit på en lördag, men från och med provet hösten 2018
-skrivs höstens prov på en söndag istället. Högskoleprovet får skrivas av vem som helst. Det finns inget krav på ålder eller svenskt medborgarskap. Provet ges dock bara i en
-svensk version. Därför har man såklart fördel om man behärskar det svenska språket på en bra nivå.
+Högskoleprovet arrangeras två gånger årligen – en gång under hösten och en gång under våren, vanligtvis på en söndag. Alla kan delta, oavsett ålder eller medborgarskap. Dock erbjuds provet endast på svenska, vilket innebär att en god kunskap i svenska är fördelaktigt.
 
-På provtillfället behöver man legitimera sig med en giltig legitimation. Följande handlingar är giltiga som legitimation för högskoleprovet:
+Vid provtillfället krävs en giltig legitimation. Accepterade legitimationshandlingar för högskoleprovet inkluderar:
 
 - Svenskt pass
 - Svenskt körkort
 - Svenskt nationellt id-kort
 - Svenskt sis-märkt id-kort
-- Id-kort utfärdat av en statlig mydighet tex Skatteverket
+- Id-kort utfärdat av en statlig myndighet, t.ex. Skatteverket
 
-Förutom handlingarna ovan går det även att legitimera sig med ett nationellt id-kort utfärdat av ett EU/ESS-land. Detta gäller framförallt personer utan svenskt personnummer. Om Högskoleprovet genomförs i Norge, Danmark, Island eller Finnland kan medborgare i dessa länder andvända sitt körkort som legitimerande handling.
+För dem utan svenskt personnummer är det också möjligt att legitimera sig med ett nationellt id-kort från ett EU/ESS-land. Om Högskoleprovet avläggs i Norge, Danmark, Island eller Finland, kan medborgare från dessa länder även använda sina nationella körkort som legitimation.
 
-### Datum högskoleprovet 2019
+### Datum högskoleprovet 2023
 
-Det är viktigt att komma ihåg vilka datum högskoleprovet skrivs samt under vilken priod det är möjligt att anmäla sig till provet. Därför har vi i listan nedan skrivit
-datum för provdag och anmälan för alla framtida prov där datum har sats.
-
-- 2020 – Vår, provdag: 4 april, anmälan: stängd
-- 2020 – Höst, provdag: 18 oktober, anmälan: 14 augusti – 27 augusti
-- 2021 - Vår, ej bestämt
-- 2021 - Höst, ej bestämt
+Nästa prov skrivs 22 oktober 2023. Anmälan öppnar 15 augusti. 
 
 ### Vad kostar högskoleprovet?
 
-Högskoleprovet kostar 450kr. Du anmäler dig via webben och kan där betala genom PlusGiro, Visa och Mastercard. Notera att betalningen måste vara genomförd senast under den sista anmälningsdagen. Under den sista anmälningsdagen går det endast att betala med Visa och Mastercard. När betalningen är gjord kommer det ett mail med en bekräftelse på anmälan. Om du gör betalningen via PlusGiro kommer mailet efter 1-2 dagar.
+Högskoleprovet har en anmälningsavgift på 550 kr. Anmälan görs online, och efter betalning erhåller du ett bekräftelsemail.
 
-Tänk på att din anmälan till högskoleprovet är personlig. Det betyder att du inte kan överföra anmälan till någon annan. Du får inte heller tillbaka anmälningsavgiften om
-de inte kan deltaga på provet eller ångrar din anmälan. Det är inte heller möjligt att flytta fram din anmälan till senare prov. UHR motiverar detta med att det tillkommer kostnader för dem direkt efter att en anmälan har skett. Detta i form av materialkostnader för prov och provskrivningslokaler samt personalkostnader för provledare och assistenter som universiteten och högskolorna bokar in. Om du har några problem med anmälan bör du ta kontakt med det universitet eller den högskola där du försökt anmäla dig.
+Observera att din anmälan är unikt kopplad till dig. Det innebär att den varken kan överlåtas till någon annan eller återbetalas ifall du inte kan närvara eller ångrar dig. Dessutom kan du inte skjuta upp din anmälan till ett senare provtillfälle. UHR förklarar dessa regler med att anmälningar genererar omedelbara kostnader för dem, såsom material för provet, lokalhyra samt löner för provledare och assistenter som bokas av universitet och högskolor. Vid problem med anmälan, vänd dig till det universitet eller högskola där du tänkt skriva provet.
 
-### Byte av provort
+### Ändra provort
 
-Det kan vara möjligt att byta provort om anmälningstiden inte gått ut. Då tar du kontakt med universitet/högskola på den provort där du vill skriva och frågar om det är möjligt att du byter dit. Om anmälningstiden redan gått ut blir du tvungen att betala en ny anmälningsavgift i samband med byte av provort. Du måste även i detta fall ta kontakt med provanordnare på den provort du vill flytta till. Om det är brist på plats på den provorten kan du bli nekad att skriva provet där. Därför är det viktigt att välja rätt provort från början.
+Om du önskar byta provort och anmälningstiden ännu inte har löpt ut, bör du kontakta det universitet eller högskola i den ort där du önskar skriva provet. Om anmälningstiden redan passerat krävs en ny anmälningsavgift för ortbytet. I båda fallen är det viktigt att du kommunicerar med provanordnaren på den önskade provorten. Om det råder platsbrist kan du bli nekad möjligheten att skriva på den orten. Därför rekommenderas det att noga överväga valet av provort redan vid anmälan.
 
 ### Kallelse till högskoleprovet
 
-Kallelsen till högskoleprovet kommer ca en vecka innan provet via epost. Där får du information om tider och vart provet kommer skrivas. Får du ingen kallelse är det viktigt att du direkt tar kontakt med det universitet eller den högskola där du anmält dig. Tänk på att du kan få skriva provet på en annan provort om för få personer anmält sig till att skriva på orten du tänkt skriva på. Du blir alltid placerad på närmastliggande ort om detta skulle ske.
+Kallelsen till högskoleprovet kommer ca en vecka innan provet via epost. Där får du information om tider och vart provet kommer skrivas. Får du ingen kallelse är det viktigt att du direkt tar kontakt med det universitet eller den högskola där du anmält dig. Observera att om för få deltagare anmält sig på din valda ort kan du bli ombedd att skriva provet på en närliggande ort istället. Vid sådana förändringar placeras du alltid på den närmaste tillgängliga orten.
 
 {{% email-signup%}}
