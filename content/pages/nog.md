@@ -8,7 +8,7 @@ long_description: |
   - Exempeluppgifter från gamla högskoleprov
   - Genomgång av teorin du behöver inför NOG-delen
 
-  Lös NOG-mysteriet med HPSkolan! 🕵️‍♀️
+  Fortsätt läs och bli expert på NOG! 🕵️‍♀️
 featured_image: /images/nog.png
 url: "/nog"
 ---
@@ -43,9 +43,9 @@ På delprov NOG gäller det generellt att ha bra baskunskaper i matematik motsva
 
 Ett av de bästa sätten för att förbereda sig inför delprov NOG är att träna på uppgifter från gamla högskoleprov. Det hjälper dig att bygga upp en vana kring hur uppgifterna och svarsalternativen är utformade.
 
-I vår övningsportal HPSkolan har vi samlat hundratals gamla NOG-uppgifter från tidigare högskoleprov som du enkelt tränar på i våra övningslägen med facit och automatisk rättning.
+I studieplattformen HP-appen finns hundratals tidigare NOG-uppgifter från högskoleprov. Där kan du träna i övnings- och provlägen med facit och automatisk rättning.
 
-Utöver NOG-uppgifterna finns det även tusentals andra uppgifter där samtliga matematikuppgifter har utförliga förklaringar och uträkningar. Övningsportalen har hjälpt tusentals provskrivare nå ett högre resultat.
+Utöver NOG-uppgifterna finns tusentals andra uppgifter, inklusive matematikproblem med utförliga förklaringar och beräkningar. Många provtagare har redan utnyttjat denna resurs för att förbättra sina resultat.
 
 {{%read-more%}}
 
