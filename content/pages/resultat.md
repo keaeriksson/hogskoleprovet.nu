@@ -1,34 +1,38 @@
 ---
 title: Högskoleprovet resultat
 date: "2012-04-06"
-description: Undrar du hur du räknar ut din poäng på Höskoleprovet? I den här artikeln går vi igenom var du kan hitta ditt resultat samt hur du kan räkna fram ditt resultat om du vet din poäng.
+description: Undrar du hur du räknar ut din poäng på Högskoleprovet? I den här artikeln går vi igenom var du kan hitta ditt resultat samt hur du kan räkna fram ditt resultat om du vet din poäng.
 url: "/resultat"
 ---
 
-## Introduktion
+## Hämta ditt resultat från Högskoleprovet
 
-Resultatet på högskoleprovet får man ut genom att logga in på den officiella sidan för högskoleprovet. Där kommer ditt resultat att laddas upp när alla prov har rättats och normeringen har bestämts. Är du inte nöjd med ditt resultat rekommenderar vi dig att öva mer inför nästa prov. I vår övningsportal HPSkolan har vi hjälpt hundratals personer höja sitt resultat och nå sin drömutbildning. Där finns tusentals övningsuppgifter med förklaringar och tidtagning. Det bästa sättet att träna helt enkel
+För att se ditt resultat från högskoleprovet ska du logga in på den officiella sidan för högskoleprovet. När alla prov är rättade och normeringen fastställts kommer ditt resultat att visas. Om du finner att du vill förbättra ditt resultat, rekommenderar vi mer förberedelse inför nästa provtillfälle. Genom vår studieplattform, HP-appen, har vi stöttat många att förbättra sina resultat och nå sina drömutbildningar. HP-appen innehåller tusentals övningsuppgifter kompletta med förklaringar och tidtagning. Ett ultimat sätt att förbereda sig!
+
 
 {{%read-more%}}
 
 [Till officiella resultat](http://www.hogskoleprov.nu/)
 
-### Räkna ut resultat själv
+### Uppskatta ditt resultat
 
-Om du markerade dina svar i det personliga provhäftet som du fick under högskoleprovet kan du jämföra din svar mot det facit som UHR brukar släppa någon dag efter provet. Då kan du komma fram till en ungefärlig poäng och jämföra det med normeringstabeller från tidigare år. På så sätt får du fram ett resultat flera veckor tidigare än de officiella resultaten. Det är inte exakt i och med att det är normeringstabeller från tidigare år, men det är så nära de officiella resultaten du kan komma.
+Kommer du ihåg vilka svar som du angav på provet? Jämför dem med facit som UHR brukar publicera några dagar efter provet. Det ger dig möjlighet att uppskatta din poäng och jämföra den med tidigare års normeringstabeller. Även om dessa tabeller är från tidigare år, ger de en nära uppskattning av det officiella resultatet.
 
-### Hur räknar jag ut mitt resultat?
+### Så räknar du ut ditt resultat
 
-Du räknar ut ditt resultat genom att först räkna antalet rätt du hade på de olika delarna. Sedan sätter du in de värderna i den officiella formeln och på så sätt får du ut din högskoleprovspoäng. Vi har gjort ett räkneexempel nedan.
+1. Börja med att summera antalet rätt du hade på de kvantitativa och verbala delarna av provet.
+2. Använd normeringstabellen från det senaste provet för att se vad dina rättade svar motsvarar i normeringspoäng.
 
-Först räknar du ut hur många rätt du hade på den kvantitativa respektive den verbala delen på provet. Sen kollar du i normeringstabellen från föregående prov vad dina antal rätt motsvarade i normeringspoäng. Låt säga att du hade 40 av 80 rätt på den verbala delen och 70 av 80 rätt på den kvantitativa delen. Då kollar man i normeringstabellen. Där kanske 40 av 80 rätt på den verbala delen motsvarar 1.0 poäng. Sen motsvarar dina 79 av 80 rätt 1.9 poäng. Då räknas din poäng ut genom att ta:
+Till exempel: Om du hade 40 av 80 rätt på den verbala delen och 70 av 80 på den kvantitativa, och normeringstabellen visar att 40 av 80 verbala rätt motsvarar 1.0 poäng, medan 70 av 80 kvantitativa rätt motsvarar 1.9 poäng:
 
-(1,0+1,9)/2 = 1,45. Då har du en slutgiltig poäng på 1,45 och det är den högskoleprovspoängen som du söker utbildningar med.
+Ditt totala resultat räknas ut som: \( \frac{1.0 + 1.9}{2} = 1.45 \)
+
+Din slutliga poäng blir då 1,45 och det är den poäng du använder när du söker utbildningar.
 
 [Till normeringstabeller](/normeringstabeller)
 
-### Antagning med poäng från Högskoleprovet
+### Antagning baserat på högskoleprovet
 
-När du har skrivit högskoleprovet kommer ditt resultat att automatiskt föras in till Antagning.se. Detta sker dock först när du söker till högskola eller universitet. Oftast tar det någon dag så du behöver inte vara orolig.
+Efter att du har skrivit högskoleprovet, kommer ditt resultat att registreras automatiskt på Antagning.se när du ansöker till en högskole- eller universitetsutbildning. Detta kan ta lite tid, men det finns ingen anledning till oro.
 
 {{% email-signup%}}
