@@ -1,15 +1,81 @@
 ---
 title: Normeringstabeller
 date: "2012-04-06"
-description: Här hittar du normeringstabeller från tidigare högskoleprov.
+description: Här hittar du normeringstabeller för de senaste årens högskoleprov.
+.
 url: "/normeringstabeller"
 ---
 
 ## Ladda ner normeringstabeller
 
-Normeringstabellerna används för att räkna ut vad man får för slutgiltig poäng på högskoleprovet. De är hämtade direkt från UHR:s webbplats eller Umeå universitet. Det är de två organisationerna som är ansvariga för prov och rättning. Nedan har vi samlat alla normeringstabeller från gamla högskoleprov.
+Normeringstabellerna används för att bestämma den slutliga poängen på högskoleprovet. Dessa tabeller är direkt hämtade från UHR:s officiella webbplats, den organisation som ansvarar för provets genomförande och rättning. Här nedan hittar du normeringstabeller från tidigare högskoleprov.
+
+### Normeringstabeller högskoleprovet 2023
+
+[Normeringstabell kvantitativa delen, våren 2023](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-vt-2023-25-mars/norm23a_kvant.pdf)
+
+[Normeringstabell verbala delen, våren 2023](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-vt-2023-25-mars/norm23a_verb.pdf)
+
+### Normeringstabeller högskoleprovet 2022
+
+[Normeringstabell kvantitativa delen, hösten 2022](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-ht2022/norm22b_kvant.pdf)
+
+[Normeringstabell verbala delen, hösten 2022](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-ht2022/norm22b_verb.pdf)
+
+[Normeringstabell kvantitativa delen, Maj 2022](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-vt2022-7-maj/norm22a2_kvant.pdf)
+
+[Normeringstabell verbala delen, Maj 2022](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-vt2022-7-maj/norm22a2_verb.pdf)
+
+[Normeringstabell kvantitativa delen, Mars 2022](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-vt-2022-12-mars/norm22a1_kvant.pdf)
+
+[Normeringstabell verbala delen, Mars 2022](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-vt-2022-12-mars/norm22a1_verb.pdf)
+
+### Normeringstabeller högskoleprovet 2021
+
+[Normeringstabell kvantitativa delen, hösten 2021](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-ht-2021/norm21b_kvant.pdf)
+
+[Normeringstabell verbala delen, hösten 2021](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-ht-2021/norm21b_verb.pdf)
+
+[Normeringstabell kvantitativa delen, Maj 2021](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-vt2021-8-maj/norm21a_kvant.pdf)
+
+[Normeringstabell verbala delen, Maj 2021](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-vt2021-8-maj/norm21a_verb.pdf)
+
+[Normeringstabell kvantitativa delen, Maj 2021](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-vt-2021-13-mars/norm21a_kvant.pdf)
+
+[Normeringstabell verbala delen, Maj 2021](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-vt-2021-13-mars/norm21a_verb.pdf)
+
+### Normeringstabeller högskoleprovet 2020
+
+[Normeringstabell kvantitativa delen, hösten 2020](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-ht-2020/norm20b_kvant.pdf)
+
+[Normeringstabell verbala delen, hösten 2020](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-ht-2020/norm20b_verb.pdf)
+
+### Normeringstabeller högskoleprovet 2019
+
+[Normeringstabell kvantitativa delen version 1, hösten 2019](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-ht-2019/norm19b_kvant_v1.pdf)
+
+[Normeringstabell verbala delen, hösten 2019](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-ht-2019/norm19b_verb.pdf)
+
+[Normeringstabell kvantitativa delen, våren 2019](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-vt-2019/norm19a_kvant.pdf)
+
+[Normeringstabell verbala delen, våren 2019](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-vt-2019/norm19a_verb.pdf)
+
+### Normeringstabeller högskoleprovet 2018
+
+[Normeringstabell kvantitativa delen, hösten 2022](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-ht-2018/norm18b_kvant.pdf)
+
+[Normeringstabell verbala delen, hösten 2022](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-ht-2018/norm18b_verb.pdf)
+
+[Normeringstabell kvantitativa delen, våren 2022](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-vt-2018/norm18a_kvant.pdf)
+
+[Normeringstabell verbala delen, våren 2022](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-vt-2018/norm18a_verb.pdf)
+
 
 ### Normeringstabeller högskoleprovet 2017
+
+[Normeringstabell kvantitativa delen, hösten 2022](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-ht-2017/norm17b_kvant.pdf)
+
+[Normeringstabell verbala delen, hösten 2022](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-ht-2017/norm17b_verb.pdf)
 
 [Normeringstabell kvantitativa delen, våren 2017](https://s3-eu-west-1.amazonaws.com/course-platform-media-prod/2017/normeringstabell/kvant_vt_2017.pdf)
 
