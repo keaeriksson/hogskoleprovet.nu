@@ -16,7 +16,7 @@ url: "/elf"
 
 ## Introduktion ELF
 
-Delprov ELF prövar din förmåga att läsa och förstå engelsk text. Delprovet består av 20 frågor och du har ca två minuter på dig att lösa varje uppgift. ELF påminner mycket om delprov LÄS men är mer varierande sett till längden på texterna och hur uppgifterna är utformade.
+Delprov ELF prövar din förmåga att läsa och förstå engelsk text. Delprovet består av 20 frågor och du rekommenderas spendera cirka två minuter på dig att lösa varje uppgift. ELF påminner mycket om delprov LÄS men är mer varierande sett till längden på texterna och hur uppgifterna är utformade.
 
 ### Förberedelser
 
@@ -26,9 +26,9 @@ För att få en bredd på sitt läsande inför ELF är det bra att variera de te
 
 ### Gamla ELF-uppgifter
 
-Ett av de bästa sätten att bli bättre på högskoleprovets ELF-del är genom att göra gamla elf-uppgifter. Då får du öva på texter som efterliknar exakt det som kommer på Högskoleprovet. I vår övningsportal HPSkolan finns det 100-tals gamla ELF-uppgifter med både facit och automatisk rättning.
+Ett av de bästa sätten att bli bättre på högskoleprovets ELF-del är genom att göra gamla ELF-uppgifter. Då får du öva på texter som efterliknar exakt det som kommer på Högskoleprovet. Vi rekommenderar studieplattformen HP-appen där det finns det en stor mängd ELF-uppgifter med både automatisk rättning och detaljerade lösningar.
 
-Utöver ELF-uppgifterna finns det även tusentals andra uppgifter där tillexempel alla matteuppgifter har utförliga förklaringar och uträkningar. Övningsportalen har hjälp tusentals provskrivare nå ett högre resultat. Studera.nu tillgängliggör tyvärr bara gamla ELF-uppgifter i en veckas tid.
+Utöver MEK-uppgifterna finns tusentals andra uppgifter, inklusive matematikproblem med utförliga förklaringar och beräkningar. Många provtagare har redan utnyttjat denna resurs för att förbättra sina resultat.
 
 {{%read-more%}}
 
