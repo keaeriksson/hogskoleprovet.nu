@@ -34,9 +34,9 @@ Här kan du läsa mer om hur du förbereder dig inför delprov KVA. Vi listar al
 
 För detta delprov hjälper det precis som med alla andra delprov att göra många uppgifter från gamla prov. När du har lärt dig lösningsmetoder för de flesta uppgifter är det viktigaste att lära dig hur du tar dig an uppgifterna så effektivt som möjligt för att få ett bra resultat på provet.
 
-I vår övningsportal HPSkolan har vi samlat hundratals gamla KVA-uppgifter från tidigare högskoleprov som du enkelt tränar på i våra övningslägen med facit och automatisk rättning.
+I studieplattformen HP-appen finns hundratals tidigare KVA-uppgifter från högskoleprov. Där kan du träna i övnings- och provlägen med facit och automatisk rättning.
 
-Utöver KVA-uppgifterna finns det även tusentals andra uppgifter där alla kvantitativa uppgifter har utförliga förklaringar och uträkningar. Övningsportalen har hjälp tusentals provskrivare nå ett högre resultat.
+Utöver KVA-uppgifterna finns tusentals andra uppgifter, inklusive matematikproblem med utförliga förklaringar och beräkningar. Många provtagare har redan utnyttjat denna resurs för att förbättra sina resultat.
 
 {{%read-more%}}
 
