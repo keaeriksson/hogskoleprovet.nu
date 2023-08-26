@@ -147,7 +147,7 @@ Vår studieplattform, HP-appen, erbjuder detaljerade förklaringar till frågor 
 
 Kort sagt, en noggrann genomgång av dina misstag är nyckeln till att förbättra ditt resultat på det verkliga högskoleprovet.
 
-![Resultatsida från HPSkolan](/images/resultat.png)
+![Resultatsida från HPSkolan](/images/hpappen-statistik.png)
 
 *HP-appens studieportal visar dig hur du ligger till på varje del. På sätt kan du mer effektivt inrikta dig på de saker du behöver öva mer på* 
 

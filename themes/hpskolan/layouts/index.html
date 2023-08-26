@@ -1,28 +1,30 @@
 <!DOCTYPE html>
-<html  lang="sv">
+<html lang="sv">
   {{- partial "head.html" . -}}
 
   <body data-spy="scroll" data-target=".fixed-top">
-    {{- partial "tag-manager.html" . -}}
-    {{- partial "navigation.html" . -}}
+    {{- partial "tag-manager.html" . -}} {{- partial "navigation.html" . -}}
     <header id="header" class="header">
       <div class="header-content">
         <div class="container">
           <div class="row">
             <div class="col-lg-6 col-xl-5">
               <div class="text-container">
-                <h1 id="send">Träna på högskoleprovet med HPSkolan!</h1>
+                <h1 id="send">Träna på högskoleprovet</h1>
                 <p class="p-large">
-                  Gör som hundratals andra och nå din drömutbildning med oss!
+                  Här kan du hitta information om Högskoleprovet, eller börja
+                  plugga direkt med studieplattformen HP-appen
                 </p>
                 <a
                   class="btn-solid-lg page-scroll"
                   target="_blank"
-                  rel="noreferrer"
-                  href="https://hpskolan.xn--hgskoleprovet-imb.nu/auth/register"
-                  >SKAPA KONTO</a
+                  rel="nofollow"
+                  href="https://app.hpappen.se/?utm_source=adalyte&utm_medium=content_hpskolan"
+                  >BÖRJA PLUGGA</a
                 >
-                <a class="btn-solid-lg page-scroll" href="#cards-1">LÄS MER</a>
+                <a class="btn-solid-lg page-scroll" href="#cards-1"
+                  >HITTA INFO</a
+                >
               </div>
               <!-- end of text-container -->
             </div>
@@ -76,9 +78,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <h2 class="h2-heading">
-              Hur HPSkolan kan hjälpa dig nå din drömutbildning
-            </h2>
+            <h2 class="h2-heading">Få koll på provet med denna snabbguide</h2>
           </div>
           <!-- end of col -->
         </div>
@@ -91,10 +91,11 @@
                 <i class="fas fa-question usp-icon"></i>
               </div>
               <div class="card-body">
-                <h4 class="card-title">Övningsfrågor</h4>
+                <h4 class="card-title">Vad är Högskoleprovet?</h4>
                 <p>
-                  Över 6000 olika övningsfrågor från provets olika kategorier.
-                  Perfekt för att öva allt från matte till engelska!
+                  Provet som ger dig en fördel när du vill komma in på en
+                  universitetsutbildning. Få en intro till högskoleprovet på
+                  sidan intro.
                 </p>
               </div>
             </div>
@@ -106,10 +107,10 @@
                 <i class="fas fa-user usp-icon"></i>
               </div>
               <div class="card-body">
-                <h4 class="card-title">Personlig coach</h4>
+                <h4 class="card-title">Var anmäler jag mig?</h4>
                 <p>
-                  Få hjälp av tidigare provskrivare med toppresultat. Vi finns
-                  där för att förklara svåra frågor eller provet i allmänhet.
+                  Det gör du på Studera.nu. Läs mer om hur anmälan går till på
+                  sidan anmälan.
                 </p>
               </div>
             </div>
@@ -122,10 +123,11 @@
               </div>
               <div class="card-body">
                 <div class="card-body">
-                  <h4 class="card-title">Uträkningar och lösningar</h4>
+                  <h4 class="card-title">Vilka frågor kommer på provet?</h4>
                   <p>
-                    Vi har skrivit specialanpassade lösningar till många
-                    matteuppgifter. Ta del av dem och utveckla din mattekunskap.
+                    Provet testar bland annat kunskaper i matte, läsförståelse,
+                    diagram och ordförståelse. Testa ett urval av frågor på
+                    sidan test.
                   </p>
                 </div>
               </div>
@@ -143,10 +145,11 @@
                 <i class="fas fa-mobile usp-icon"></i>
               </div>
               <div class="card-body">
-                <h4 class="card-title">Tillgänglig överallt</h4>
+                <h4 class="card-title">Är provet digitalt?</h4>
                 <p>
-                  Övningsportalen är anpassad till alla typer av enheter – du
-                  kan träna i telefonen på bussen eller hemma framför datorn.
+                  Nej, högskoleprovet görs fortfarande på plats, främst i olika
+                  skolor runt om i landet. Testa gärna några typiska
+                  högskoleprov på sidan test.
                 </p>
               </div>
             </div>
@@ -158,10 +161,13 @@
                 <i class="fas fa-book usp-icon"></i>
               </div>
               <div class="card-body">
-                <h4 class="card-title">Teori</h4>
+                <h4 class="card-title">
+                  Behöver jag plugga till Högskoleprovet?
+                </h4>
                 <p>
-                  Teorikapitel om provets olika delar fyllda med
-                  exempeluppgifter och uträkningar.
+                  Ja, de flesta behöver plugga till provet för att maximera sina
+                  chanser att nå sin utbildning. Läs hur du kan använda gamla
+                  prov till din fördel på sidan gamla högskoleprov.
                 </p>
               </div>
             </div>
@@ -174,10 +180,11 @@
               </div>
               <div class="card-body">
                 <div class="card-body">
-                  <h4 class="card-title">Användarvänlig</h4>
+                  <h4 class="card-title">Gör plugget roligt</h4>
                   <p>
-                    Vi har satsat allt på användarvänlighet. Vi tycker att vi
-                    har lyckats skapa den bästa användarupplevelsen av alla!
+                    Med HP-appen är vår ambition att göra resan till
+                    Högskoleprovet enklare. Börja resan redan idag och skapa ett
+                    gratis konto här.
                   </p>
                 </div>
               </div>
@@ -198,11 +205,12 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <h2 class="h2-heading">Övningsportalen</h2>
+            <h2 class="h2-heading">HP-appens studieplattform</h2>
             <p class="p-heading">
-              Vår övningsportal innehåller flera olika övningslägen och
-              funktioner. Du kan köra snabbövning, teorigenomgång, simulera ett
-              gammalt prov med rättning och normering samt mycket mer!
+              Vill du träna inför högskoleprovet på ett effektivt sätt kan det
+              vara en god idé att ta hjälp av en plattform speciellt utformad
+              för effektivt högskoleprovsplugg. Med HP-appen kan du nå dina
+              utbildningsdrömmar snabbare.
             </p>
           </div>
           <!-- end of col -->
@@ -221,7 +229,7 @@
                   role="tab"
                   aria-controls="tab-1"
                   aria-selected="true"
-                  ><i class="fas fa-list"></i>Snabbövning</a
+                  ><i class="fas fa-list"></i>Övningar</a
                 >
               </li>
               <li class="nav-item">
@@ -233,8 +241,7 @@
                   role="tab"
                   aria-controls="tab-2"
                   aria-selected="false"
-                  ><i class="fas fa-envelope-open-text"></i>Gamla
-                  Högskoleprov</a
+                  ><i class="fas fa-envelope-open-text"></i>Prov</a
                 >
               </li>
               <li class="nav-item">
@@ -246,7 +253,7 @@
                   role="tab"
                   aria-controls="tab-3"
                   aria-selected="false"
-                  ><i class="fas fa-graduation-cap"></i>Teori</a
+                  ><i class="fas fa-graduation-cap"></i>Poängprognos</a
                 >
               </li>
               <li class="nav-item">
@@ -278,7 +285,7 @@
                     <div class="image-container">
                       <img
                         class="img-fluid"
-                        src="images/snabbovning.png"
+                        src="images/hpappen-ovningar.png"
                         alt="alternative"
                       />
                     </div>
@@ -287,36 +294,39 @@
                   <!-- end of col -->
                   <div class="col-lg-6">
                     <div class="text-container">
-                      <h3>Skräddarsy din övning med Snabbövning</h3>
+                      <h3>Övningar</h3>
                       <p>
-                        Med vårt läge för Snabbövning kan du välja exakt vilka
-                        kategorier du vill öva på och hur många frågor.
+                        Optimera ditt övande inför provet. Välj exakt vad du
+                        vill öva på på inom vart och ett av de 8 delproven.
                       </p>
                       <ul class="list-unstyled li-space-lg">
                         <li class="media">
                           <i class="fas fa-square"></i>
                           <div class="media-body">
-                            Passar perfekt om du vill träna upp dina svagheter
+                            Välj specifikt vad du vill träna på, till exempel
+                            Algebra inom delprovet XYZ.
                           </div>
                         </li>
                         <li class="media">
                           <i class="fas fa-square"></i>
                           <div class="media-body">
-                            Fungerar bra när du är på bussen eller tunnelbanan
+                            Få automatisk rättning och effektiva lösningar som
+                            hjälper dig att bli bättre
                           </div>
                         </li>
                         <li class="media">
                           <i class="fas fa-square"></i>
                           <div class="media-body">
-                            Du kan välja om du vill använda tidtagning och facit
+                            Välj hur och var du vill plugga; funkar både på
+                            mobilen, paddan och datorn
                           </div>
                         </li>
                       </ul>
                       <a
                         class="btn-solid-lg page-scroll"
                         target="_blank"
-                        rel="noreferrer"
-                        href="https://hpskolan.xn--hgskoleprovet-imb.nu/auth/register"
+                        rel="nofollow"
+                        href="https://app.hpappen.se/?utm_source=adalyte&utm_medium=content_hpskolan"
                         >SKAPA KONTO</a
                       >
                     </div>
@@ -341,7 +351,7 @@
                     <div class="image-container">
                       <img
                         class="img-fluid"
-                        src="images/gamla-prov.png"
+                        src="images/hpappen-prov.png"
                         alt="alternative"
                       />
                     </div>
@@ -350,39 +360,36 @@
                   <!-- end of col -->
                   <div class="col-lg-6">
                     <div class="text-container">
-                      <h3>Simulera tidigare Högskoleprov</h3>
+                      <h3>Prov</h3>
                       <p>
-                        Vi har tagit fram de 10 senaste proven till vår
-                        provsimulator. Att göra gamla prov är ett perfekt test
-                        för att se hur du ligger till.
+                        Träna digitalt på alla prov sedan 2011 (då provet
+                        gjordes om till nuvarande format).
                       </p>
                       <ul class="list-unstyled li-space-lg">
                         <li class="media">
                           <i class="fas fa-square"></i>
                           <div class="media-body">
-                            I provsimulatorn rättas alla dina svar automatiskt
-                            efter provet
+                            Automatisk rättning och normerad poäng
                           </div>
                         </li>
                         <li class="media">
                           <i class="fas fa-square"></i>
                           <div class="media-body">
-                            Det finns tidtagning, facit och normering.
+                            Få lösningar till hur du löser uppgifterna
                           </div>
                         </li>
                         <li class="media">
                           <i class="fas fa-square"></i>
                           <div class="media-body">
-                            Du får tillgång till förklaringar på alla
-                            matteuppgifter
+                            Lättanvänt och snyggt användargränsnitt
                           </div>
                         </li>
                       </ul>
                       <a
                         class="btn-solid-lg page-scroll"
                         target="_blank"
-                        rel="noreferrer"
-                        href="https://hpskolan.xn--hgskoleprovet-imb.nu/auth/register"
+                        rel="nofollow"
+                        href="https://app.hpappen.se/?utm_source=adalyte&utm_medium=content_hpskolan"
                         >SKAPA KONTO</a
                       >
                     </div>
@@ -407,7 +414,7 @@
                     <div class="image-container">
                       <img
                         class="img-fluid"
-                        src="images/teori.png"
+                        src="images/hpappen-prognos.png"
                         alt="alternative"
                       />
                     </div>
@@ -416,37 +423,38 @@
                   <!-- end of col -->
                   <div class="col-lg-6">
                     <div class="text-container">
-                      <h3>Teori</h3>
+                      <h3>Poängprognos</h3>
                       <p>
-                        Vi har fyllt HPSkolan med teori som förklarar grunderna
-                        i Högskoleprovet. Perfekt för dig som inte skrivit
-                        provet tidigare!
+                        HP-appen introducerar personlig poängprognos. Det
+                        betyder att du alltid har en aktuell normerad poäng,
+                        innan du ens gjort provet.
                       </p>
                       <ul class="list-unstyled li-space-lg">
                         <li class="media">
                           <i class="fas fa-square"></i>
                           <div class="media-body">
-                            Genomgång av alla Högskoleprovets olika delprov
+                            Skapar en prognos i realtid baserat på dina svar.
                           </div>
                         </li>
                         <li class="media">
                           <i class="fas fa-square"></i>
                           <div class="media-body">
-                            Exempelfrågor från varje delprov med lösningsförslag
+                            Se hur din normerade poäng utvecklar sig vecka för
+                            vecka.
                           </div>
                         </li>
                         <li class="media">
                           <i class="fas fa-square"></i>
                           <div class="media-body">
-                            Studietips och bra strategier för delproven
+                            Poängprognos både totalt och på varje delprov.
                           </div>
                         </li>
                       </ul>
                       <a
                         class="btn-solid-lg page-scroll"
                         target="_blank"
-                        rel="noreferrer"
-                        href="https://hpskolan.xn--hgskoleprovet-imb.nu/auth/register"
+                        rel="nofollow"
+                        href="https://app.hpappen.se/?utm_source=adalyte&utm_medium=content_hpskolan"
                         >SKAPA KONTO</a
                       >
                     </div>
@@ -470,7 +478,7 @@
                     <div class="image-container">
                       <img
                         class="img-fluid"
-                        src="images/statistik.png"
+                        src="images/hpappen-statistik.png"
                         alt="alternative"
                       />
                     </div>
@@ -479,36 +487,37 @@
                   <!-- end of col -->
                   <div class="col-lg-6">
                     <div class="text-container">
-                      <h3>Följ din statistik</h3>
+                      <h3>Personlig statistik</h3>
                       <p>
-                        Vi samlar statistik för att du ska veta exakt vad du
-                        behöver förbättra för att nå ditt drömresultat.
+                        Ser hur det går med plugget så du enklare kan fokusera
+                        på det viktigaste
                       </p>
                       <ul class="list-unstyled li-space-lg">
                         <li class="media">
                           <i class="fas fa-square"></i>
                           <div class="media-body">
-                            Hitta och förbättra dina svaga områden
+                            Poängprognos på varje delprov
                           </div>
                         </li>
                         <li class="media">
                           <i class="fas fa-square"></i>
                           <div class="media-body">
-                            Följ dina framsteg mot målet
+                            Statistik över hur många uppgifter du har klarat
                           </div>
                         </li>
                         <li class="media">
                           <i class="fas fa-square"></i>
                           <div class="media-body">
-                            Bedöm när du är redo att skriva provet
+                            Historik så du kan gå tillbaka och analysera dina
+                            misstag
                           </div>
                         </li>
                       </ul>
                       <a
                         class="btn-solid-lg page-scroll"
                         target="_blank"
-                        rel="noreferrer"
-                        href="https://hpskolan.xn--hgskoleprovet-imb.nu/auth/register"
+                        rel="nofollow"
+                        href="https://app.hpappen.se/?utm_source=adalyte&utm_medium=content_hpskolan"
                         >SKAPA KONTO</a
                       >
                     </div>
@@ -539,36 +548,40 @@
         <div class="row">
           <div class="col-lg-6">
             <div class="text-container">
-              <h2>
-                Du kommer att tacka dig själv för att du började plugga idag!
-              </h2>
+              <h2>Börja i tid med ditt plugg inför Högskoleprovet!</h2>
               <p>
-                Det är inte lätt att hitta tid eller ork för att plugga till
-                Högskoleprovet! Låt oss hjälpa dig att ta steget och fullfölja
-                dina studier på ett roligt sätt. Ditt framtida jag kommer tacka
-                dig.
+                Att uppnå en hög poäng på Högskoleprovet är en utmaning.
+                Statistiken visar att de flesta gör provet tre gånger innan de
+                når målpoängen. Men med HP-appen kan din förberedelse bli både
+                roligare och mer effektiv:
               </p>
               <ul class="list-unstyled li-space-lg">
                 <li class="media">
                   <i class="fas fa-square"></i>
                   <div class="media-body">
-                    Vår coach hjälper dig med ett passande studieupplägg utefter
-                    din vardag och dina mål.
+                    Förvandla ditt pluggande till en rolig upplevelse genom ett
+                    lättanvänt användargränssnitt som gör inlärningen smidig och
+                    engagerande.
                   </div>
                 </li>
                 <li class="media">
                   <i class="fas fa-square"></i>
                   <div class="media-body">
-                    Vår statistik hjälper dig identifiera dina svagheter och
-                    förbättra dem! Lite övning varje dag räcker långt.
+                    Maximera din effektivitet genom att dra nytta av personlig
+                    statistik, detaljerade analyser och djupgående lösningar
+                    till frågor som är anpassade efter dina behov.
                   </div>
                 </li>
               </ul>
+              <p>
+                HP-appen är mer än bara ett verktyg; det är din partner på vägen
+                mot framgång på Högskoleprovet. Börja din resa redan idag!
+              </p>
               <a
                 class="btn-solid-reg page-scroll"
                 target="_blank"
-                rel="noreferrer"
-                href="https://hpskolan.xn--hgskoleprovet-imb.nu/auth/register"
+                rel="nofollow"
+                href="https://app.hpappen.se/?utm_source=adalyte&utm_medium=content_hpskolan"
                 >SKAPA KONTO</a
               >
             </div>
@@ -579,7 +592,7 @@
             <div class="image-container">
               <img
                 class="img-fluid"
-                src="images/statistik.png"
+                src="images/hpappen-statistik.png"
                 alt="alternative"
               />
             </div>
@@ -640,12 +653,13 @@
         <div class="row">
           <div class="col-lg-12">
             <hr class="mb-5" />
-            <h2>Köp medlemskap</h2>
+            <h2>HP-appen är gratis att prova</h2>
             <div class="p-heading">
-              Du betalar enkelt för HPSkolan med hjälp av Swish. Betalningen
-              sker inne i övningsportalen efter att du skapat ett konto.
+              Kom igång med plugget direkt och prova HP-appen. Du binder dig
+              inte till något. Välj sedan själv om du vill uppgradera och få
+              tillgång till allt.
             </div>
-            <img class="swish" src="images/swish.svg" alt="alternative" />
+            <img class="swish" src="images/klarna.svg" alt="alternative" />
           </div>
           <!-- end of col -->
         </div>
@@ -655,17 +669,18 @@
             <!-- Card-->
             <div class="card">
               <div class="card-body">
-                <div class="card-title">1 månad</div>
+                <div class="card-title">3 månaders prenumeration</div>
                 <div class="price">
-                  <span class="currency">kr</span><span class="value">299</span>
+                  <span class="value">180 kr</span><br />
+                  <span class="currency">/ månad</span>
                 </div>
                 <div class="divider"></div>
                 <div class="button-wrapper">
                   <a
                     class="btn-solid-reg page-scroll"
                     target="_blank"
-                    rel="noreferrer"
-                    href="https://hpskolan.xn--hgskoleprovet-imb.nu/auth/register"
+                    rel="nofollow"
+                    href="https://app.hpappen.se/?utm_source=adalyte&utm_medium=content_hpskolan"
                     >SKAPA KONTO</a
                   >
                 </div>
@@ -677,17 +692,18 @@
             <!-- Card-->
             <div class="card">
               <div class="card-body">
-                <div class="card-title">3 månader</div>
+                <div class="card-title">6 månaders prenumeration</div>
                 <div class="price">
-                  <span class="currency">kr</span><span class="value">499</span>
+                  <span class="value">120 kr</span><br />
+                  <span class="currency">/ månad</span>
                 </div>
                 <div class="divider"></div>
                 <div class="button-wrapper">
                   <a
                     class="btn-solid-reg page-scroll"
                     target="_blank"
-                    rel="noreferrer"
-                    href="https://hpskolan.xn--hgskoleprovet-imb.nu/auth/register"
+                    rel="nofollow"
+                    href="https://app.hpappen.se/?utm_source=adalyte&utm_medium=content_hpskolan"
                     >SKAPA KONTO</a
                   >
                 </div>
@@ -702,9 +718,10 @@
                             <p class="best-value">Best Value</p>
                         </div> -->
               <div class="card-body">
-                <div class="card-title">6 månader</div>
+                <div class="card-title">9 månaders prenumeration</div>
                 <div class="price">
-                  <span class="currency">kr</span><span class="value">599</span>
+                  <span class="value">90 kr</span><br />
+                  <span class="currency">/ månad</span>
                 </div>
                 <div class="divider"></div>
 
@@ -712,8 +729,8 @@
                   <a
                     class="btn-solid-reg page-scroll"
                     target="_blank"
-                    rel="noreferrer"
-                    href="https://hpskolan.xn--hgskoleprovet-imb.nu/auth/register"
+                    rel="nofollow"
+                    href="https://app.hpappen.se/?utm_source=adalyte&utm_medium=content_hpskolan"
                     >SKAPA KONTO</a
                   >
                 </div>

@@ -2,7 +2,6 @@
 title: Normeringstabeller
 date: "2012-04-06"
 description: Här hittar du normeringstabeller för de senaste årens högskoleprov.
-.
 url: "/normeringstabeller"
 ---
 
@@ -69,7 +68,6 @@ Normeringstabellerna används för att bestämma den slutliga poängen på högs
 [Normeringstabell kvantitativa delen, våren 2022](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-vt-2018/norm18a_kvant.pdf)
 
 [Normeringstabell verbala delen, våren 2022](https://www.studera.nu/globalassets/hogskoleprovet/normeringstabeller/normering-vt-2018/norm18a_verb.pdf)
-
 
 ### Normeringstabeller högskoleprovet 2017
 
