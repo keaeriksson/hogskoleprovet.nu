@@ -29,7 +29,7 @@ Nedan följer en exempeluppgift från Högskoleprovet VT 2017.
 
 I detta fall är rätt svar **tapperhet**
 
-Längst ner på den här sidan har vi skapat 10 ord test med ord från gamla högskoleprov. Det är perfekt för dig som vill komma igång med din ord-träning. Att bli riktigt bra på högskoleprovets ord-del kräver mycket övning. Vi på Högskoleprovet.nu har utvecklat en övningsportal som heter HPSkolan där kan man bland annat träna på svåra ord. I övningsportalen finns över 6000 av Sveriges svåraste ord med kompletterande exempelmeningar och synonymer. Att öva där är ett av de bästa sätten att förbättra sin ord-kunskap och höja sitt resultat på provet. I nästa sektion får du tips på hur du förbereder dig inför delprov ORD på bästa sätt. Vi rekommenderar dig att läsa hela guiden på den här sidan, men om du vill kan du även gå direkt till testen längst ner på sidan.
+Längst ner på den här sidan har vi skapat 10 ord test med ord från gamla högskoleprov. Det är perfekt för dig som vill komma igång med din ord-träning. Att bli riktigt bra på högskoleprovets ord-del kräver mycket övning. Vi har utvecklat en övningsportal som heter HP-appen där kan man bland annat träna på svåra ord. I övningsportalen finns över 6000 av Sveriges svåraste ord med kompletterande exempelmeningar och synonymer. Att öva där är ett av de bästa sätten att förbättra sin ord-kunskap och höja sitt resultat på provet. I nästa sektion får du tips på hur du förbereder dig inför delprov ORD på bästa sätt. Vi rekommenderar dig att läsa hela guiden på den här sidan, men om du vill kan du även gå direkt till testen längst ner på sidan.
 
 ### Förberedelser inför ORD-delen
 
@@ -45,7 +45,7 @@ Att titta på gamla prov kan vara bra för att få en uppfattning om vilken typ 
 
 #### Använd övningsläget
 
-För att träna och testa ditt ordförråd kan du använda övningsläget vi på HPSkolan erbjuder. I övningsläget kan du skapa ett test med så många uppgifter du har tid med för tillfället och träna på dem i lugn och ro. På våra ORD-frågor kan du alltid hitta synonymer och en beskrivning av ordet om du klickar på “Visa facit” i övningsläget. Det kan hjälpa dig att repetera de ord du svarade fel på under övningsläget. Följ sedan dina framsteg med hjälp av vårt statistikverktyg som visar hur många av våra frågor du har klarat av samt hur det gått på dina senaste övningstillfällen.
+För att träna och testa ditt ordförråd kan du använda övningsläget vi på HP-appen erbjuder. I övningsläget kan du skapa ett test med så många uppgifter du har tid med för tillfället och träna på dem i lugn och ro. På våra ORD-frågor kan du alltid hitta synonymer och en beskrivning av ordet om du klickar på “Visa facit” i övningsläget. Det kan hjälpa dig att repetera de ord du svarade fel på under övningsläget. Följ sedan dina framsteg med hjälp av vårt statistikverktyg som visar hur många av våra frågor du har klarat av samt hur det gått på dina senaste övningstillfällen.
 
 ### Strategier
 
@@ -65,7 +65,7 @@ Många komplexa ord kan delas upp i flera ord eller stavelser som kan ge en idé
 
 ### ORD-test
 
-Vill du öva på svåra ord? Då är våra ORD-test nedan perfekt för dig. Vi har gjort 10 test med ord från gamla högskoleprov. Det är bara att sätta igång och öva. I testen ingår även rättning och tidtagning. Prova med lite tid för att bli ordentligt stressad. Om du vill bli riktigt vass på ORD-delen rekommenderar vi dig dock att bli medlem i vår övningsportal HPSkolan. Där finns det många fler svåra ord, exempelmeningar och synonymer. Lycka till!
+Vill du öva på svåra ord? Då är våra ORD-test nedan perfekt för dig. Vi har gjort 10 test med ord från gamla högskoleprov. Det är bara att sätta igång och öva. I testen ingår även rättning och tidtagning. Prova med lite tid för att bli ordentligt stressad. Om du vill bli riktigt vass på ORD-delen rekommenderar vi dig dock att bli medlem i vår studieplattform HP-appen. Där finns det många fler svåra ord, exempelmeningar och synonymer. Lycka till!
 
 {{% ord-test %}}
 
