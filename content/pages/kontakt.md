@@ -7,6 +7,6 @@ url: "/kontakt"
 
 ### Kontakt
 
-Vi är glada för all typ av feedback vi får oavsett om det gäller Högskoleprovet.nu eller om den gäller tjänsten HP-appen. Vi brukar vara väldigt snabba på att lösa problem som uppstår. Via länken ovan kan du komma i kontakt med oss direkt på HP-appens hemsida.
+Vi är glada för all typ av feedback vi får oavsett om det gäller Högskoleprovet.nu eller om den gäller tjänsten HP-appen. Vi brukar vara väldigt snabba på att lösa problem som uppstår. Via länken nedan kan du komma i kontakt med oss direkt på HP-appens hemsida.
 
 <a href="https://www.hpappen.se/kontakt" rel="nofollow">Klicka här för att kontakta HP-appen</a>

@@ -65,7 +65,7 @@ Många komplexa ord kan delas upp i flera ord eller stavelser som kan ge en idé
 
 ### ORD-test
 
-Vill du öva på svåra ord? Då är våra ORD-test nedan perfekt för dig. Vi har gjort 10 test med ord från gamla högskoleprov. Det är bara att sätta igång och öva. I testen ingår även rättning och tidtagning. Prova med lite tid för att bli ordentligt stressad. Om du vill bli riktigt vass på ORD-delen rekommenderar vi dig dock att bli medlem i vår studieplattform HP-appen. Där finns det många fler svåra ord, exempelmeningar och synonymer. Lycka till!
+Vill du öva på svåra ord? Då är våra ORD-test nedan perfekt för dig. Vi har gjort 10 test med ord från gamla högskoleprov. Det är bara att sätta igång och öva. I testen ingår även rättning och tidtagning. Prova med lite tid för att bli ordentligt stressad. Om du vill bli riktigt vass på ORD-delen rekommenderar vi dig dock att börja plugga i vår studieplattform HP-appen. Där finns det många fler svåra ord, exempelmeningar och synonymer. Lycka till!
 
 {{% ord-test %}}
 
