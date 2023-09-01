@@ -20,7 +20,7 @@ Att gå en kurs i högskoleprovet kan vara ett bra sätt att öka ditt resultat 
 
 En kurs i högskoleprovet på distans kan vara ett bra upplägg av flera anledningar. Om kursen sker helt online kan du träna i din egen takt och slipper anpassa dig till andra. Du är inte heller beroende av att vara i närheten av en kurslokal eller anpassa dig till ett schema.
 
-Här på Högskoleprovet.nu har vi utvecklat en distanskurs i högskoleprovet som passar perfekt för dig som värdesätter detta. I vår kurs HP-appen sker allt online och du kan träna precis när och var du vill. I HP-appen har vi samlat över 6000 övningsfrågor där du får utförliga förklaringar på alla matematikuppgifter.
+Här på Högskoleprovet.nu har vi utvecklat en distanskurs i högskoleprovet som passar perfekt för dig som värdesätter detta. I vår kurs HP-appen sker allt online och du kan träna precis när och var du vill. I HP-appen har vi samlat över 10 000 övningsfrågor där du får utförliga förklaringar på alla matematikuppgifter.
 
 {{%read-more%}}
 
