@@ -15,7 +15,7 @@ Välgjorda test är inte bara en bra övning – de är din nyckel till framgån
 
 ### Vad erbjuder HP-appen?
 
-Högskoleprovet.nu presenterar stolt vår övningsportal: HP-appen. Här kan du skapa anpassade test utifrån olika kategorier från högskoleprovet. För den ambitiösa studenten erbjuder vi även all högskoleproven sen 2011 komplett med tidtagning, rättning, facit, samt detaljerade förklaringar till många frågor. Utöver detta har vi listat några grundläggande test här nedan. De är gratis och ett utmärkt startpunkt!
+Högskoleprovet.nu presenterar stolt vår övningsportal: HP-appen. Här kan du skapa anpassade test utifrån olika kategorier från högskoleprovet. För den ambitiösa studenten erbjuder vi även alla högskoleproven sen 2011 komplett med tidtagning, rättning, facit, samt detaljerade förklaringar till många frågor. Utöver detta har vi listat några grundläggande test här nedan. De är gratis och ett utmärkt startpunkt!
 
 {{%read-more%}}
 
