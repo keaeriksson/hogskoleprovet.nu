@@ -51,7 +51,7 @@ Utöver NOG-uppgifterna finns tusentals andra uppgifter, inklusive matematikprob
 
 ### Ekvationer
 
-Att ställa upp ekvationer är mycket viktigt för NOG. Ett exempel: Martin har x stycken tröjor och fyra gånger så många byxor. Om vi benämner antalet byxor Martin har som y är y = 3x.
+Att ställa upp ekvationer är mycket viktigt för NOG. Ett exempel: Martin har x stycken tröjor och fyra gånger så många byxor. Om vi benämner antalet byxor Martin har som y är y = 4x.
 
 ### Procent
 
