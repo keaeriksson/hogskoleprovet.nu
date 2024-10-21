@@ -7,12 +7,10 @@ url: "/gamla-hogskoleprov"
 
 ## Så utnyttjar du tidigare prov effektivt
 
-I denna artikel guidar vi dig steg för steg genom hur du kan använda tidigare prov för att märkbart förbättra dina resultat. Här erbjuder vi även möjligheten att ladda ner tidigare prov. Vill du ta ditt förberedande arbete till nästa nivå? Prova HP-appens interaktiva övningsprov, komplett med automatisk rättning, normering, facit, tidtagning och utförliga förklaringar. Skapa ett gratis konto och kom igång redan idag!
+I denna artikel guidar vi dig steg för steg genom hur du kan använda tidigare prov för att märkbart förbättra dina resultat. Här erbjuder vi även möjligheten att ladda ner tidigare prov. Vill du ta ditt förberedande arbete till nästa nivå? Prova <a href="https://www.hpappen.se?utm_source=adalyte&utm_medium=content_hpskolan">HP-appens</a> interaktiva övningsprov, komplett med automatisk rättning, normering, facit, tidtagning och utförliga förklaringar. Skapa ett gratis konto och kom igång redan idag!
 
 [Läs mer om testen](/test)\
 [Läs mer om hur du kan öva på gamla prov](/gamla-hogskoleprov#steg-1)
-
-
 
 ### Ladda ner gamla högskoleprov
 
@@ -115,8 +113,6 @@ I denna artikel guidar vi dig steg för steg genom hur du kan använda tidigare 
 </tbody>
 </table>
 
-
-
 #### Varför är gamla högskoleprov värdefulla?
 
 När vi förbereder oss inför särskilda händelser, vare sig det är en idrottstävling, en tentamen eller ett körkortstest, strävar vi efter att vara så väl förberedda som möjligt.
@@ -125,7 +121,7 @@ Det mest effektiva sättet att göra detta på är att öva under förhållanden
 
 Detta resonemang gäller i hög grad för högskoleprovet. Tack vare tillgängligheten av tidigare högskoleprov online, har vi chansen att simulera riktiga provsituationer och skapa otaliga effektiva övningstillfällen inför den stora dagen.
 
-### Steg 1. Optimal förberedelse med gamla högskoleprov
+### Steg 1. Optimal förberedelse med gamla högskoleprov {#steg-1}
 
 Många nöjer sig med att skriva ut gamla högskoleprov och sporadiskt öva på frågorna. Men det finns effektivare metoder, och vi ska guida dig genom dem.
 
@@ -141,23 +137,22 @@ Det kan kännas överväldigande att dissekera ditt provresultat, men fokusera p
 
 1. Vilka frågor svarade du fel på, och hur kan du lära dig av dem? För de kvantitativa delarna (mek, läs, elf, ord) handlar det oftast om att noga läsa frågan igen eller förstå ordens innebörd. För mer komplexa delar kan det krävas mer genomtänkta strategier.
 
-Vår studieplattform, HP-appen, erbjuder detaljerade förklaringar till frågor från alla prov sen 2011. Dessa guider är ovärderliga för den som vill förstå uppgifterna fullt ut.
+Vår studieplattform, <a href="https://www.hpappen.se?utm_source=adalyte&utm_medium=content_hpskolan">HP-appen</a>, erbjuder detaljerade förklaringar till frågor från alla prov sen 2011. Dessa guider är ovärderliga för den som vill förstå uppgifterna fullt ut.
 
-2. Identifiera vilka typer av frågor som utmanar dig mest. Jämför andelen rätt svar per kategori. Detta hjälper dig att avgöra var du bör fokusera din träning mest. HP-appen utför denna analysen automatiskt, vilket sparar dig tid.
+2. Identifiera vilka typer av frågor som utmanar dig mest. Jämför andelen rätt svar per kategori. Detta hjälper dig att avgöra var du bör fokusera din träning mest. <a href="https://www.hpappen.se?utm_source=adalyte&utm_medium=content_hpskolan">HP-appen</a> utför denna analysen automatiskt, vilket sparar dig tid.
 
 Kort sagt, en noggrann genomgång av dina misstag är nyckeln till att förbättra ditt resultat på det verkliga högskoleprovet.
 
-![Resultatsida från HPSkolan](/images/hpappen-statistik.png)
+![Resultatsida från HPSkolan](/images/hpappen-statistik2.png)
 
-*HP-appens studieportal visar dig hur du ligger till på varje del. På sätt kan du mer effektivt inrikta dig på de saker du behöver öva mer på* 
+_HP-appens studieportal visar dig hur du ligger till på varje del. På sätt kan du mer effektivt inrikta dig på de saker du behöver öva mer på_
 
 ### Steg 3. Träning med gamla högskoleprov
 
-Nu när du är utrustad med kunskapen om hur du effektivt tränar med tidigare högskoleprov, låt oss sätta igång! Du har två alternativ: antingen laddar du ner proven och genomför dem självständigt, eller så utforskar du vår studieplattform, HP-appen, som ger dig en fördjupad träningsupplevelse.
+Nu när du är utrustad med kunskapen om hur du effektivt tränar med tidigare högskoleprov, låt oss sätta igång! Du har två alternativ: antingen laddar du ner proven och genomför dem självständigt, eller så utforskar du vår studieplattform, <a href="https://www.hpappen.se?utm_source=adalyte&utm_medium=content_hpskolan">HP-appen</a>, som ger dig en fördjupad träningsupplevelse.
 
-HP-appen erbjuder övningsprov med realtidskorrigering, normering, tidtagning och utförliga förklaringar, steg för steg. Utnyttja dessa resurser fullt ut för att maximalt förbättra dina chanser inför högskoleprovet!
+<a href="https://www.hpappen.se?utm_source=adalyte&utm_medium=content_hpskolan">HP-appen</a> erbjuder övningsprov med realtidskorrigering, normering, tidtagning och utförliga förklaringar, steg för steg. Utnyttja dessa resurser fullt ut för att maximalt förbättra dina chanser inför högskoleprovet!
 
 {{%read-more%}}
-
 
 {{% email-signup%}}

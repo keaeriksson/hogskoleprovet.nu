@@ -5,14 +5,9 @@ description: Här finns all nödvändig information för att anmäla dig till H�
 url: "/anmalan"
 ---
 
-
 ## Var anmäler jag mig till högskoleprovet 2023?
 
-Anmälan till Högskoleprovet administreras av Universitets- och högskolerådet (UHR). Det går inte att anmäla sig efter sista anmälningsdag, så se till att vara uppdaterad om relevanta datum. 
-Nästa provtillfälle är hösten 2023, och äger rum söndagen den 22 oktober.
-
-För anmälan, klicka på länken nedan.
-Datum för 2024 års prov har ännu inte fastställts. 
+Anmälan till Högskoleprovet administreras av Universitets- och högskolerådet (UHR). Det går inte att anmäla sig efter sista anmälningsdag, så se till att vara uppdaterad om relevanta datum.
 
 [UHR:s webbplats för anmälan](https://www.hogskoleprov.nu/)
 
@@ -30,9 +25,9 @@ Vid provtillfället krävs en giltig legitimation. Accepterade legitimationshand
 
 För dem utan svenskt personnummer är det också möjligt att legitimera sig med ett nationellt id-kort från ett EU/ESS-land. Om Högskoleprovet avläggs i Norge, Danmark, Island eller Finland, kan medborgare från dessa länder även använda sina nationella körkort som legitimation.
 
-### Datum högskoleprovet 2023
+### Datum högskoleprovet 2025
 
-Nästa prov skrivs 22 oktober 2023. Anmälan öppnar 15 augusti. 
+Nästa prov skrivs 5 April 2025. Anmälan öppnar 7 Januari.
 
 ### Vad kostar högskoleprovet?
 

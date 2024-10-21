@@ -6,6 +6,7 @@ url: "/om-hogskoleprovet"
 ---
 
 ## Introduktion
+
 {{% email-signup-small%}}
 
 Högskoleprovet är ett prov som testar din förmåga att klara universitets- och högskolestudier och fungerar som ett alternativt sätt att bli antagen till högskolor och universitet. För många är det en riktigt bra chans att komma in på sin drömutbildning trots att man inte har meritpoängen som krävs för att komma in i de vanliga urvalsgrupperna.
@@ -20,10 +21,7 @@ Dessa delar är i sin tur uppdelade i delprov. Den verbala delen är uppdelad i 
 
 Högskoleprovet arrangeras vanligtvis i skollokaler i hela landet. Det finns även möjlighet att skriva provet i svenska skolor utomlands. Du kan anmäla dig för att skriva provet på det ställe som ligger bäst till för dig.
 
-Följande tider gäller för anmälan till de två kommande högskoleproven:
-
-- 2023 – Höst, provdag: 22 oktober, anmälan: 15 augusti
-- 2024 - Vår, ej bestämt
-
 Vem som helst får skriva provet – det finns inget krav på svenskt personnummer eller ålder. Du behöver dock kunna uppvisa en giltig legitimation för att skriva provet. Legitimationen kontrolleras flera gånger under provdagen.
 {{% email-signup%}}
+
+Du kan läsa mer om anmälan på <a href="/anmalan">denna sida</a>.

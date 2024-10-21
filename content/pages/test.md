@@ -15,7 +15,7 @@ Välgjorda test är inte bara en bra övning – de är din nyckel till framgån
 
 ### Vad erbjuder HP-appen?
 
-Högskoleprovet.nu presenterar stolt vår övningsportal: HP-appen. Här kan du skapa anpassade test utifrån olika kategorier från högskoleprovet. För den ambitiösa studenten erbjuder vi även alla högskoleproven sen 2011 komplett med tidtagning, rättning, facit, samt detaljerade förklaringar till många frågor. Utöver detta har vi listat några grundläggande test här nedan. De är gratis och ett utmärkt startpunkt!
+Högskoleprovet.nu presenterar stolt vår övningsportal: <a href="https://www.hpappen.se?utm_source=adalyte&utm_medium=content_hpskolan">HP-appen</a>. Här kan du skapa anpassade test utifrån olika kategorier från högskoleprovet. För den ambitiösa studenten erbjuder vi även alla högskoleproven sen 2011 komplett med tidtagning, rättning, facit, samt detaljerade förklaringar till många frågor. Utöver detta har vi listat några grundläggande test här nedan. De är gratis och ett utmärkt startpunkt!
 
 {{%read-more%}}
 
@@ -27,21 +27,21 @@ Nedan hittar du en samling av våra kostnadsfria test, perfekt för att jämför
 
 Dyk in i våra ordtest baserade på tidigare högskoleprov. De är särskilt användbara för att förbättra ordkunskap och läsförståelse. God ordkunskap är essentiellt för att maximera dina poäng på provet. Ju bättre du behärskar orden, desto snabbare kan du besvara frågorna, vilket frigör tid för andra delar av provet.
 
-Om du känner att du vill utöka ditt ordförråd ytterligare, rekommenderar vi HP-appen, där vi samlat tusentals ord tillsammans med synonymer och exempelmeningar.
+Om du känner att du vill utöka ditt ordförråd ytterligare, rekommenderar vi <a href="https://www.hpappen.se?utm_source=adalyte&utm_medium=content_hpskolan">HP-appen</a>, där vi samlat tusentals ord tillsammans med synonymer och exempelmeningar.
 
 {{% ord-test%}}
 
 #### Mattetest
 
-Högskoleprovet består utav två verbala delar och två kvantitativa delar. De kvantitativa delarna har ett betydande fokus på mattekunskaper. Det kan ofta vara utmanande, men med rätt förberedelse och förklaringar kan du bemästra det. HP-appen innehåller detaljerade förklaringar för matematikfrågor från tidigare prov, vilka är ovärderliga när du stöter på en klurig uppgift.
+Högskoleprovet består utav två verbala delar och två kvantitativa delar. De kvantitativa delarna har ett betydande fokus på mattekunskaper. Det kan ofta vara utmanande, men med rätt förberedelse och förklaringar kan du bemästra det. <a href="https://www.hpappen.se?utm_source=adalyte&utm_medium=content_hpskolan">HP-appen</a> innehåller detaljerade förklaringar för matematikfrågor från tidigare prov, vilka är ovärderliga när du stöter på en klurig uppgift.
 
-Nedan presenterar vi två mattetest, men för en djupdykning rekommenderar vi att skapa ett konto på HP-appen.
+Nedan presenterar vi två mattetest, men för en djupdykning rekommenderar vi att skapa ett konto på <a href="https://www.hpappen.se?utm_source=adalyte&utm_medium=content_hpskolan">HP-appen</a>.
 
 {{% matte-test%}}
 
 #### Vikten av test på tid
 
-Tidsbegränsningen kan vara en av de mest utmanande aspekterna av högskoleprovet. Effektiv tidsanvändning är avgörande för att maximera din poängpotential. För att mästra denna färdighet bör du regelbundet öva med tidspress. HP-appen har ett brett utbud av högskoleprov som kan göras både med och utan tidtagning, så att du kan anpassa din träning optimalt.
+Tidsbegränsningen kan vara en av de mest utmanande aspekterna av högskoleprovet. Effektiv tidsanvändning är avgörande för att maximera din poängpotential. För att mästra denna färdighet bör du regelbundet öva med tidspress. <a href="https://www.hpappen.se?utm_source=adalyte&utm_medium=content_hpskolan">HP-appen</a> har ett brett utbud av högskoleprov som kan göras både med och utan tidtagning, så att du kan anpassa din träning optimalt.
 
 {{%read-more%}}
 
