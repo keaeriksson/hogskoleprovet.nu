@@ -1454,6 +1454,10 @@ input[type="checkbox"] {
   font: 700 1.125rem/1.5rem "Open Sans", sans-serif;
 }
 
+.price {
+  position: relative;
+}
+
 .cards-2 .card .price .currency {
   margin-right: 0.25rem;
   color: #434c54;
@@ -1469,7 +1473,11 @@ input[type="checkbox"] {
 }
 
 .cards-2 .card .frequency {
-  font-size: 0.875rem;
+  position: absolute;
+  right: -1rem;
+  bottom: 0;
+  font-size: 0.8rem;
+  min-width: max-content;
 }
 
 .cards-2 .card .divider {
@@ -2419,7 +2427,6 @@ h4 {
   /* Pricing */
   .cards-2 .card {
     width: 19.375rem;
-    max-width: 100%;
     margin-right: 1.75rem;
     margin-left: 1.75rem;
   }
