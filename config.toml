@@ -2,6 +2,12 @@ languageCode = "se-SE"
 title = "Träna på Högskoleprovet - Såhär blir du expert - Högskoleprovet.nu"
 theme = "hpskolan"
 
+# GitHub Pages Configuration
+# For custom domain: Add a CNAME file to static/ folder and configure in GitHub repo settings
+# For default GitHub Pages URL: Update this to https://<username>.github.io/<repo-name>/
+baseURL = "https://karleriksson.github.io/hpskolan-public/"
+
+# To use custom domain (högskoleprovet.nu), uncomment this and add CNAME file:
 baseURL = "https://www.högskoleprovet.nu/"
 
 [params]
@@ -15,25 +21,3 @@ facebook = "hogskoleprovet.nu"
 
 [markup.goldmark.renderer]
 unsafe = true
-
-[deployment]
-
-[[deployment.targets]]
-name = "prod"
-URL = "s3://hpskolan-public-prod?region=eu-west-1"
-cloudFrontDistributionID = "E382B3D2K2RXRS"
-
-[[deployment.matchers]]
-#  Cache static assets for 1 year.
-pattern = "^.+\\.(js|css|svg|ttf)$"
-cacheControl = "max-age=31536000, no-transform, public"
-gzip = true
-
-[[deployment.matchers]]
-pattern = "^.+\\.(png|jpg)$"
-cacheControl = "max-age=31536000, no-transform, public"
-gzip = false
-
-[[deployment.matchers]]
-pattern = "^.+\\.(html|xml|json)$"
-gzip = true
