@@ -2,12 +2,6 @@ languageCode = "se-SE"
 title = "Träna på Högskoleprovet - Såhär blir du expert - Högskoleprovet.nu"
 theme = "hpskolan"
 
-# GitHub Pages Configuration
-# For custom domain: Add a CNAME file to static/ folder and configure in GitHub repo settings
-# For default GitHub Pages URL: Update this to https://<username>.github.io/<repo-name>/
-baseURL = "https://karleriksson.github.io/hpskolan-public/"
-
-# To use custom domain (högskoleprovet.nu), uncomment this and add CNAME file:
 baseURL = "https://www.högskoleprovet.nu/"
 
 [params]
