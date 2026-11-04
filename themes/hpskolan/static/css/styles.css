@@ -1480,6 +1480,40 @@ input[type="checkbox"] {
   min-width: max-content;
 }
 
+/* A one-off price ("1 299 kr") is too wide for the big digits and a label beside
+   it, so its label goes on its own line under a smaller price. */
+.cards-2 .card .price-once .value {
+  font-size: 2.75rem;
+}
+
+.cards-2 .card .price-once .frequency {
+  position: static;
+  display: block;
+}
+
+/* The divider and the button sit at the same height in every card, however tall
+   the price above them is: the cards share the row's height and the divider is
+   pushed down to the same place in each. (".row >" outranks the inline-block
+   rule for wide screens further down.) */
+.cards-2 .row > .card {
+  display: flex;
+  flex-direction: column;
+}
+
+.cards-2 .card .card-body {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+}
+
+.cards-2 .card .card-body .divider {
+  margin-top: auto;
+}
+
+.cards-2 .card .price {
+  margin-bottom: 1.75rem;
+}
+
 .cards-2 .card .divider {
   height: 1px;
   margin-top: 1.75rem;
