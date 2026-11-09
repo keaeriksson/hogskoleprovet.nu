@@ -743,6 +743,47 @@
     <!-- end of cards-2 -->
     <!-- end of pricing -->
 
+    <script>
+      // Fills the price cards with HP-appen's prices on sale right now, from its
+      // public catalogue, so they follow every price change without an edit here.
+      // The prices written in the cards above stay if the catalogue can't be read
+      // or doesn't have one plan per card.
+      (function () {
+        var cards = document.querySelectorAll("#pricing .card");
+        var labels = { week: "/vecka", month: "/månad" };
+
+        function label(plan) {
+          if (plan.kind === "pass") return "engångsköp";
+          if (plan.kind === "subscription") return labels[plan.interval];
+        }
+
+        fetch("https://apibeta.hpappen.se/api/payments/catalogue")
+          .then(function (response) {
+            return response.ok ? response.json() : null;
+          })
+          .then(function (body) {
+            var catalogue = body && body.success && body.data;
+            if (!catalogue || catalogue.version !== 5 || !catalogue.salesActive) return;
+            var plans = catalogue.plans || [];
+            if (plans.length !== cards.length) return;
+            var drawable = plans.every(function (plan) {
+              return plan.name && typeof plan.amountSek === "number" && label(plan);
+            });
+            if (!drawable) return;
+
+            plans.forEach(function (plan, i) {
+              var card = cards[i];
+              card.querySelector(".card-title").textContent = plan.name;
+              card.querySelector(".value").textContent =
+                plan.amountSek.toLocaleString("sv-SE") + "\u00a0kr";
+              card.querySelector(".frequency").textContent = label(plan);
+              card.querySelector(".price").classList.toggle("price-once", plan.kind === "pass");
+            });
+          })
+          .catch(function () {});
+      })();
+    </script>
+
     {{- partial "footer.html" . -}}
   </body>
 </html>
